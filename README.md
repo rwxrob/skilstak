@@ -3,7 +3,7 @@
 This the main repo for all business, content, and operations.
 Everything related to SKILSTAK is linked from here. 
 
-* [projects](projects)
+* [projects](https://github.com/rwxrob/skilstak/projects)
 * [rwx.gg](https://rwx.gg) educational content
 * [skilstak.io](https://skilstak.io) business web site 
 * Business-y type stuff:
