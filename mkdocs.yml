@@ -16,7 +16,6 @@ markdown_extensions:
   - pymdownx.superfences
 
 edit_uri: edit/main/docs/
-view_uri: edit/main/docs/
 
 extra:
   generator: false
