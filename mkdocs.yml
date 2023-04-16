@@ -53,6 +53,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-          #nav:
-          #- Welcome!: README.md
-          #- Beginner Boost: boost
+nav:
+  - Welcome!: README.md
+  - Beginner Boost: boost
