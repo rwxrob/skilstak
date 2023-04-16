@@ -1,0 +1,44 @@
+site_name: SKILSTAK Learning Community
+site_url: https://skilstak.io
+repo_url: https://github.com/rwxrob/skilstak
+
+dev_addr: '0.0.0.0:8000'
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+theme:
+  name: material
+  logo:  assets/logo.png
+  features:
+    - navigation.tabs
+  search:
+    lang:
+      - en
+      - ru
+  font:
+    text: Work Sans
+
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+          #nav:
+          #- Welcome!: README.md
+          #- Beginner Boost: boost

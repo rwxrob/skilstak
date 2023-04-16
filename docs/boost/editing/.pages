@@ -1,0 +1,9 @@
+title: Editing text files from command line
+nav:
+  - README.md
+  - nano.md
+  - ed-ex.md
+  - vi.md
+  - nvi.md
+  - nvim.md
+  - what-about.md
