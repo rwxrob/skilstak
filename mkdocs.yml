@@ -2,7 +2,7 @@ site_name: SKILSTAK Learning Community
 site_url: https://skilstak.io
 repo_url: https://github.com/rwxrob/skilstak
 
-dev_addr: '0.0.0.0:8000'
+#dev_addr: '0.0.0.0:8000'
 
 plugins:
   - search
@@ -30,7 +30,7 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
