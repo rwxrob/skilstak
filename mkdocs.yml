@@ -1,29 +1,38 @@
 site_name: SKILSTAK Learning Community
 site_url: https://skilstak.io
 repo_url: https://github.com/rwxrob/skilstak
-
-#dev_addr: '0.0.0.0:8000'
+repo_name: rwxrob/skilstak
+dev_addr: '0.0.0.0:8000'
 
 plugins:
   - search
   - awesome-pages
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
 
+edit_uri: edit/main/docs/
+
+
 theme:
   name: material
   logo:  assets/logo.png
   features:
     - navigation.tabs
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
   search:
     lang:
       - en
       - ru
   font:
     text: Work Sans
+
 
   palette:
 
