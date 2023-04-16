@@ -23,6 +23,7 @@ theme:
   logo:  assets/logo.png
   features:
     - navigation.tabs
+    - navigation.instant
     - content.action.edit
     - content.action.view
     - content.code.copy
