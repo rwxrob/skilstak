@@ -1,7 +1,9 @@
 site_name: SKILSTAK Learning Community
 site_url: https://skilstak.io
 repo_url: https://github.com/rwxrob/skilstak
+edit_uri: blob/main/docs/
 repo_name: rwxrob/skilstak
+
 dev_addr: '0.0.0.0:8000'
 
 plugins:
@@ -15,7 +17,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-edit_uri: edit/main/docs/
 
 extra:
   generator: false
