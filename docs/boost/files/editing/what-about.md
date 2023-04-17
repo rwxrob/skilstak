@@ -1,4 +1,4 @@
-# What about ... ?
+# What about ... editor?
 
 ## Editing files with emacs
 

@@ -1,1 +1,1 @@
-# Welcome beginners!
+# Let's get started!
