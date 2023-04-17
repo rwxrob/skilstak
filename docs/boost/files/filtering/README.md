@@ -1,4 +1,4 @@
-# How can I change the contents of a file using nothing but commands?
+# Why learn to change the contents of a file using nothing but commands?
 
 Before learning how to use one of the standard terminal editors you really should first learn how to cope with a terminal that cannot be run in **visual** mode at all. In fact, [in the 70s](https://youtu.be/tc4ROCJYbm0) there was no visual mode. Everything was accomplished with commands chained together in what would become known as **pipelines**.
 
