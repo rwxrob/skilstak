@@ -6,7 +6,7 @@ Before learning how to use one of the standard terminal editors you really shoul
 
      We all saw you yawn reading that "boomer" pipeline reference. 😉 But hold up a minute before you scroll past it.
 
-     Consider that most hackers use commands for changing file content all the time because their backdoor malware only allows commands to be run without a "full visual interface" that requires additional device access, which can trigger monitoring software watching for use of those devices. So, if you are a potential hacker who doesn't want to get caught it's best you learn how to change what's in a file without an posh editor. That's right, vi *is* posh in such cases.
+     Consider that most hackers use commands for changing file content all the time because their backdoor malware only allows commands to be run without a "full visual interface" that requires additional device access, which can trigger monitoring software watching for use of those devices. So, if you are a potential hacker who doesn't want to get caught it's best you learn how to change what's in a file without a posh editor. That's right, vi *is* posh in such cases.
 
      If you didn't understand any of that, you will soon enough.
 
