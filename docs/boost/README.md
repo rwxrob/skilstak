@@ -1,4 +1,4 @@
-# Let's go!
+# Overview of Beginner Boost
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
