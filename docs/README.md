@@ -1,6 +1,6 @@
 # Welcome!
 
-**Welcome to the SKILSTAK learning community knowledge base!**
+Welcome to the **SKILSTAK Learning Community** knowledge base! Home of the annual, crowd-sourced Beginner Boost learning event.
 
 This is where we document everything in a searchable, mobile-friendly way to supplement our YouTube video content, live Twitch sessions, and Discord channel discussions. Master, beginner---or just lurker---we do hope you'll join us.
 
