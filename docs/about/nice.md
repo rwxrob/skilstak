@@ -1,10 +1,10 @@
 # Nice comments
 
-First, a big "thank you" to all the people who have made supportive, motivational comments in different ways over the years. It means a lot. And, if SKILSTAK has helped you in some way, please let us know. 
+**Thank you** to all the people who have made supportive, motivational comments in different ways over the years. It means a lot. And, if SKILSTAK has helped you in some way, please let us know.
 
 !!! note "It's about community"
 
-    Rob might have started (and currently leads) SKILSTAK, but it has always been the community that keeps SKILTAK going strong. Even Rob got his current cushy corporate job (that indirectly funds and informs the rest) through a SKILSTAK member referral.
+    Rob started SKILSTAK, but it has always been the community that keeps SKILTAK going strong. Even Rob got his current corporate job through a SKILSTAK member referral.
 
 Won't you join us?
 
@@ -96,7 +96,7 @@ Won't you join us?
     become a true terminal master!)
 
 - Name: Alastair
-  Text:
+  Text: |
     Hi there. Just read you bad parent blog piece. You lost skilstak in
     your medium/twitter handle so I thought I’d see what it is. Broken
     by the looks of it. Good in you for becoming an educator. It’s not
@@ -188,14 +188,14 @@ Won't you join us?
 
 - Name: Joni Dunn
   Note: Parent of private mentored community member 
-  Text: 
+  Text: |
     Rob does a fantastic job of engaging and teaching the kids without
     them even knowing they‘re learning. :) We’ll be repeat customers
     every time my grandson comes for a visit!
 
-- Name: Dena Miller 
+- Name: Dena Miller
   Note: Mother of Gabe Miller
-  Text: 
+  Text: |
     My son has been attending SkilStak for almost four years now. He
     started out in Code and Play and has progressed to Pro, gaining
     invaluable coding skills and knowledge every step of the way! In
@@ -578,7 +578,7 @@ Won't you join us?
     keyboard is his color palette, the terminal is his canvas, Twitch,
     Youtube and github are his exhibition galleries.  Kappa
 
-- Name:
+- Name: Carson
   Text: ->
     hey rob, this is your former student carson here if you happen to
     remember me. trouble falling asleep right now and I was just

@@ -22,8 +22,8 @@ We met this person at a Linux meetup and introduced them to our community member
 
     Getting hired is about building trust with potential employers by producing demonstratable, unique proof that you can produce what that company needs. We help people do it all the time.
 
-Since SKILSTAK is largely a labor of love we maintain a [collection of nice things people have said over the years](about/nice.md). Its motivates us to continue providing valuable services for free (or near free, even though many others make a lot more money doing far less).
+Since SKILSTAK is largely a labor of love we maintain a [collection of nice things people have said over the years](about/nice.md).
 
 ## Why no Slack channel?
 
-Because we already have Discord. It is annoying that many companies block access to Discord. Consider accessing from your personal phone (preferably with speech-to-text) while at work if you face that kind of annoyance.
+We don't have a Slack channel because we already have Discord. It is annoying that many companies block access to Discord. Consider accessing from your personal phone (preferably with speech-to-text) while at work if you face that kind of annoyance.
