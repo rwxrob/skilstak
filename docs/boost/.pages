@@ -1,6 +1,7 @@
 title: Beginner Boost
 nav:
   - README.md
+  - learning
   - bash
   - files
   - tmux

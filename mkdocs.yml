@@ -25,6 +25,8 @@ markdown_extensions:
   - pymdownx.betterem
   - mdx_emdash
   - footnotes
+  - toc:
+      permalink: "#"
 
 extra:
   generator: false
