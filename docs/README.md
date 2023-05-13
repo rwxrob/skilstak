@@ -12,7 +12,7 @@ This content is ever changing and evolving as improvements are made and changes 
 
 There's no better marketing than word of mouth. In fact, since 2013 we've *never* needed to advertise. The first two community members were referrals from friends who were in tech and knew their kids needed to learn it. Since then, SKILSTAK has helped thousands to accomplish their learning and career goals.
 
-Here's how one company representative described it in an email after hiring a community member with a $100,000 starting salary:
+Here's how one company representative described it in an email after hiring a community member with a 100,000 dollar starting salary:
 
 > Clearly, you have a talent for educating people in tech. ... After [your member's] success [here], I suspect the review team will be even more interested in picking up one or two of your students. We've had a lot of very bright interns from some of the top universities in the country and [your community member] was right in the mix with the best of them.
 
