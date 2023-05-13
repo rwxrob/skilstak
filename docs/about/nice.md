@@ -620,4 +620,8 @@ Won't you join us?
   Text: ->
     I just want to say thank you @rwxrob for being a positive influence
     in my life  <3
+
+- Name: adrnlnJnky
+  Text: ->
+    I want to share: I took your Linux class in 2020 during the Covid lockdown. I took your course then, from there I learned Go, then randomly Elixir and now I have a job as a developer. That course your did for free was the jump point that got me moving forward with traction...
 ```
