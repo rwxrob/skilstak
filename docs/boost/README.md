@@ -1,8 +1,14 @@
-# Overview of Beginner Boost
+# Welcome to Beginner Boost!
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together to do a series of extremely casual live streams and videos to help beginners learn the fundamentals required to start careers in technology (specifically those benefiting from Linux terminal command-line skills). As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11 but anyone can follow along from previous years or join in the middle and catch up by watching videos and asking questions in our Discord.
+Since 2020, our community has come together to do a series of extremely casual live streams and videos to help beginners learn the fundamentals required to start careers in technology (specifically those benefiting from Linux terminal skills to develop or use applications with command-line interfaces). As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11 but anyone can follow along from previous years or join in the middle and catch up by watching videos and asking questions in our Discord.
+
+## What is the format of the video sessions?
+
+Each week we do two, one-hour sessions split up with a 10 minute break in between to get ads out of the way and to ask informal questions and rest a bit. Each hour long session is uploaded as a video to YouTube where it can be paused, sped up, and followed. Eventually, chapters are added to the videos (as the community can get to it).
+
+The flow of the video content is just Rob doing stuff and talking about it along the way, occasionally taking live questions. Chat is never included in the videos for obvious reasons but can be followed by those participating live. When following YouTube videos only those with questions can ask them in the Discord where the community can help and Rob can follow up.
 
 ## When are they?
 
@@ -37,30 +43,7 @@ The Beginner Boost is not a course. There's no syllabus, no certificate, no cred
 
 ## What will we learn?
 
-Because the Boost is a live, crowd-sourced, learning event, the content is always very organic and changes based on what makes sense as we encounter it. Here's what we currently plan to cover in the current year (not necessarily in this order):
-
-*  Learning to learn the RWX way (becoming an autodidact).
-*  Install terminal application, podman, and Ubuntu Linux container.
-*  Know the difference between a container and a virtual machine.
-*  Navigate and manage files from command line.
-*  Manage processes from command line.
-*  Edit text with commands and with terminal editors.
-*  Take efficient, searchable notes with Markdown and MkDocs.
-*  Work with structured data in JSON, YAML, and delimited formats.
-*  Understand how the Internet actually works.
-*  Save source to GitHub with git and gh from command line.
-*  Write safe shell scripts in bash and ash with shellcheck.
-*  Follow UNIX philosophies and use filters over plugins.
-*  Customize Bash profile and environment.
-*  Customize Vim text editing sessions.
-*  Manage terminal windows with screen and TMUX.
-*  Do effective research from command line with lynx and w3m.
-*  Sample a little coding in Perl, Python, Ruby, C, Go, and Rust.
-*  Organize commands for portability and start your own "dot files" repo.
-*  Create and maintain a consumable, sustainable resume.
-*  Learn just enough Web development to create a personal profile page.
-*  Network and foster a professional learning network/community.
-*  Know when and how to certify and get a good starting tech job.
+Because the Boost is a live, crowd-sourced, learning event, the content is always very organic and changes based on what makes sense as we encounter it. Each year is different. (See the Overview for that specific year.) 
 
 ## Targeted careers
 
@@ -71,6 +54,7 @@ When deciding what to include we like to keep a list of typical job titles you m
 * Cloud Native Engineer
 * Machine Learning Engineer
 * Systems Engineer
+* Platform Engineer
 * Infrastructure Engineer
 * DevOps Engineer
 * Software Developer
