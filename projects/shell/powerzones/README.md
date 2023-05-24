@@ -3,6 +3,7 @@
 ## Usage
 
 ```
-powerzones <FTP>
+powerzones [FTP]
+echo "$FTP" | powerzones
 ```
 
