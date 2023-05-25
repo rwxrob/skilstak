@@ -20,7 +20,28 @@ else
   read -r f
 fi
 
-echo   "Threshold Power:             $f"
+k=0
+if [ -n "$2" ]; then
+  k="$2"
+elif [ -n "$WEIGHT" ]; then
+  k="$WEIGHT"
+else
+  read -r k
+fi
+
+h=0
+if [ -n "$3" ]; then
+  h="$3"
+elif [ -n "$HEIGHT" ]; then
+  h="$HEIGHT"
+else
+  read -r h
+fi
+
+echo   "          HEIGHT : $h"
+echo   "          WEIGHT : $k"
+echo   "             FTP : $f ($(echo "scale=2;$f/$k"|bc))"
+echo
 printf "${w}Recovery      (1):      😴 - %.0f\n"   "$(echo "$f*.56"|bc)"
 printf "${b}Endurance     (2):     %.0f - %.0f\n" "$(echo "$f*.56"|bc)" "$(echo "$f*.75"|bc)"
 printf "${g}Tempo         (3):     %.0f - %.0f\n" "$(echo "$f*.76"|bc)" "$(echo "$f*.90"|bc)"
