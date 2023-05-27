@@ -7,7 +7,11 @@ Let's do this again. Weeks 2 and 3 were a little harder than most beginners migh
 1. What concepts do all *users* need to understand?
 1. What does it mean to be a Linux "user" (vs "admin" or "hacker")?
 1. Create a local Linux container for the Boost
-    * `podman run -it --hostname skilstak --name boost -v shared://shared ghcr.io/rwxrob/ws-skilstak`
+
+    ```sh
+    podman run -it --hostname skilstak --name boost -v shared://shared ghcr.io/rwxrob/ws-skilstak
+    ```
+
 1. What is the difference between a terminal and a command line?
 1. What do the parts of the prompt mean?
 1. How do I clear the screen?
