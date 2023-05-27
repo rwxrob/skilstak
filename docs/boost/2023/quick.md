@@ -8,16 +8,16 @@ Start learning Linux and containers now. Whether you are coming into the Boost l
     -   Mac: iTerm2
     -   Windows: Terminal Preview
 2.  Install bash
-    -   Mac: install brew (then) brew install bash
+    -   Mac: install brew (then) `brew install bash`
     -   Windows: install git-bash
 3.  Install Podman Desktop
 4.  Initialize and start the podman virtual machine
     -   Open bash terminal command line
-    -   podman machine list
-    -   podman machine init
-    -   podman machine start
+    -   `podman machine list`
+    -   `podman machine init`
+    -   `podman machine start`
 5.  Pull and run a container from SKILSTAK workspace image
-    -   podman pull ghcr.io/rwxrob/ws-skilstak
-    -   podman run -it –hostname skilstak –name skilstak -v shared://shared ws-skilstak
-    -   Use exit to exit container
-    -   podman start -a skilstak
+    -   `podman pull ghcr.io/rwxrob/ws-skilstak`
+    -   `podman run -it –hostname skilstak –name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak`
+    -   Use `exit` to exit container
+    -   `podman start -a skilstak`

@@ -16,8 +16,7 @@
 10. Use up and down arrows (for now) to get previous commands
 11. Restart and attach to named container
 12. Use Advanced Package Manager (APT)
-13. Use update command to refresh list of packages
-    1.  Do NOT use upgrade command
+13. Use `apt update` command to refresh list of packages
 14. Clear the screen with clear command (not control-L)
 15. Install documentation helpers
 16. Use man to get help about commands

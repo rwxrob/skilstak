@@ -1,6 +1,6 @@
 # 2023 Boost - Week 2
 
-📺 <https://youtu.be/0gNR6qj87a0>>
+📺 <https://youtu.be/0gNR6qj87a0>
 
 This week we learn about terminal and command line interfaces, containers and virtual machines and start using Podman Desktop and podman command for the first time.
 
