@@ -1,5 +1,6 @@
 title: Beginner Boost 2023
 nav:
-  quick.md
-  ...
+  - README.md
+  - quick.md
+  - ...
 
