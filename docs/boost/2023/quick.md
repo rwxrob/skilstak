@@ -24,4 +24,4 @@ Start learning Linux and containers now. Whether you are coming into the Boost l
 
 6. Use `exit` to exit container
 7. Reattach to container later
-    -  `podman start -a skilstak`
+    -  `podman start -a boost`
