@@ -19,7 +19,7 @@ Let's do this again. Weeks 2 and 3 were a little harder than most beginners migh
     * `clear` (or `c`)
 1. How do I see where I am?
     * `pwd`
-1. How do I see what is in this directory?
+1. How do I see everything in this directory?
     * `ls -al`
 1. How do get help information about a command?
     * `CMD -h` or `CMD --help`
@@ -27,10 +27,11 @@ Let's do this again. Weeks 2 and 3 were a little harder than most beginners migh
     * `help CMD`
     * `apropos KEYWORD` (if you want)
 1. What is a directory and what is a file?
-1. What is a "parent" and "sub" directory?
-    * current directory: `.`
-    * parent directory: `..`
-    * previous directory: `-`
+1. What are special directories?
+    * current: `.`
+    * parent: `..`
+    * previous: `-`
+    * home: `~`
 1. How do I change directories?
     * `cd DIR`
     * `cd -`
