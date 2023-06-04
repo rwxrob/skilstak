@@ -45,6 +45,14 @@ The Beginner Boost is not a course. There is no syllabus, no certificate, no cre
 
 Because the Boost is a live, crowd-sourced, learning event, the content is always very organic and changes based on what makes sense as we encounter it. Each year is different. (See the Overview for that specific year.)
 
+## How-to (recipe) format
+
+Content is organized into questions and answers. This provided better searchability, review, and is consistent with popular "recipe" book organization used by O'Reilly and others over the years.  Taking notes in this fashion is also more flexible because each question and answer can be reorganized as the learner finds most sensible later.
+
+This is also the basis of learning like a hacker, or a magician for that matter. Each "trick" (or task) is captured with its steps. These tricks can then be combined in different ways. In a very real sense, learning this way is much like writing code for your own brain, each task is a subroutine.
+
+The Boost learning model, therefore, is designed to help you program your own brain to be able to do things much like an AI or software application. In fact, the only difference is that in order to write the code into your brain you have to repeat the steps of any task over and over to create those neural pathways, which is *exactly* what modern AI training does.
+
 ## Targeted careers
 
 When deciding what to include we like to keep a list of typical job titles you might see out there that either require or strongly benefit from the skills, knowledge, and abilities covered by the Boost---**Security Analyst** (the fastest growing tech career) being chief among them.
