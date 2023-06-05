@@ -1,6 +1,10 @@
 # 2023 Boost overview
 
-Here's what we currently plan to cover in 2023. Most all are accomplished from the terminal command line (and not a graphic user interface):
+Here's what we currently plan to cover over approximately 32 weeks in 2023 with an estimated completion date sometime in December based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
+
+!!! note "Consider waiting until we are done"
+
+    Some people may find it better to simply wait until the entire 2023 Boost has completed so they can work as fast as they want through the material at their own pace---particularly if you are impatient and have a hard time with the informal, often disorganized way we work through the content.
 
 1.  Become an autodidact: learn to manage your own learning. (1h)
 1.  Take efficient, searchable notes with Markdown on GitHub. (1h)
@@ -27,6 +31,9 @@ Here's what we currently plan to cover in 2023. Most all are accomplished from t
 1.  Understand how Internet networking generally works. (2h)
 1.  Use secure shell to safely interact with remote systems. (1h)
 1.  Save source to GitHub with git and gh. (1h)
+1.  Organize commands and start your own "dot files" GitHub repo. (1h)
+    * Organize git repositories
+    * Use symbolic links
 1.  Commit working Linux container as image to GitHub registry. (1h)
 1.  Write safe shell scripts in bash and ash with shellcheck. (1h)
 1.  Grok and apply everything in the bash manual page (man bash). (4h)
@@ -41,7 +48,6 @@ Here's what we currently plan to cover in 2023. Most all are accomplished from t
 1.  Customize ed/ex/vi/vim configuration. (1h)
 1.  Customize TMUX configuration. (1h)
 1.  Customize lynx configuration. (1h)
-1.  Organize commands and start your own "dot files" GitHub repo. (1h)
 1.  Try coding in Python, C, and Go from CLI. (8h)
 1.  Create and maintain a consumable, sustainable resume. (2h)
     * Don't call yourself a "junior"
