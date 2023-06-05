@@ -1,0 +1,14 @@
+#!/bin/bash
+
+declare -i minutes
+while IFS= read -r line; do 
+  [[ ! "$line" =~  [mh]\)$ ]] && continue
+  line=${line##*\(}
+  line=${line%)}
+  if [[ "$line" =~ m ]]; then
+    ((minutes+=${line%m}))
+  elif [[ "$line" =~ h ]]; then
+    ((minutes+=${line%h}*60))
+  fi
+done < README.md
+printf "%0.0f\n" $(dc <<< "0; 2 k; $minutes 60 / 2 / p")

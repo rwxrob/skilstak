@@ -1,0 +1,6 @@
+#!/bin/bash
+
+current=$(ls -1 week*.md |tail -1)
+current=${current#week}
+current=${current%.md}
+date -d "this saturday + $(./weeks) weeks - ${current} weeks"
