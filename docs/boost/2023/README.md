@@ -29,7 +29,8 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
     * Grok bases, binary, octal, decimal, and hexidecimal
 1.  Find specific files anywhere and determine what they are. (1h)
 1.  Understand how Internet networking generally works. (2h)
-1.  Use secure shell to safely interact with remote systems. (1h)
+1.  Use secure shell (ssh) to safely interact with remote systems. (1h)
+    * Grok public key cryptography
 1.  Save source to GitHub with git and gh. (1h)
 1.  Organize commands and start your own "dot files" GitHub repo. (1h)
     * Organize git repositories
