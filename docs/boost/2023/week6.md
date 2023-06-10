@@ -2,7 +2,7 @@
 
 This week is focused on text file filtering, transformation, sorting, and editing in-place (without a terminal editor). We also introduce the ed, the "standard UNIX terminal editor" (so that we can better understand commands and editors that have been derived from it).
 
-📺 <>
+📺 <https://youtu.be/iwxh9w1AGIc>
 
 1. What is the difference between a carriage return and line return?
 1. How do I print a carriage return in output?
