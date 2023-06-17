@@ -20,7 +20,7 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 1.  Run commands on multiple files using wildcard globbing. (1h)
 1.  Search and filter text input and files with regular expressions. (2h)
 1.  Edit text files in-place from the command line. (1h)
-1.  Edit text files visually using terminal editor apps. (2h)
+1.  Edit text files visually using major terminal editor apps. (4h)
 1.  Manage running application processes. (1h)
 1.  Manage terminal windows with screen/tmux. (1h)
 1.  Leverage command history to save time. (20m)
