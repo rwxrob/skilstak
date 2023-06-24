@@ -21,12 +21,15 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 1.  Search and filter text input and files with regular expressions. (2h)
 1.  Edit text files in-place from the command line. (1h)
 1.  Edit text files visually using major terminal editor apps. (4h)
-1.  Manage running application processes. (1h)
+1.  Leverage command history using terminal editor actions to save time. (20m)
+1.  Customize ed/ex/vi/vim configuration. (1h)
+1.  Customize TMUX configuration. (1h)
+1.  Customize lynx configuration. (1h)
 1.  Manage terminal windows with screen/tmux. (1h)
-1.  Leverage command history to save time. (20m)
 1.  Do effective research from command line with lynx or w3m. (1h)
 1.  Understand and manipulate Linux file ownership and permissions. (1h)
     * Grok bases, binary, octal, decimal, and hexidecimal
+1.  Manage running application processes. (1h)
 1.  Find specific files anywhere and determine what they are. (1h)
 1.  Understand how Internet networking generally works. (2h)
 1.  Use secure shell (ssh) to safely interact with remote systems. (1h)
@@ -38,17 +41,14 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 1.  Commit working Linux container as image to GitHub registry. (1h)
 1.  Write safe shell scripts in bash and ash with shellcheck. (1h)
 1.  Grok and apply everything in the bash manual page (man bash). (4h)
-1.  Doing math safely and reliably with bc and dc. (2h)
+1.  Doing math safely and reliably with bc and dc. (1h)
 1.  Understand ASCII, terminal encoding, and escape sequences. (1h)
 1.  Follow UNIX philosophies and use UNIX filters over plugins. (1h)
 1.  Work with structured data in JSON, YAML, and delimited formats. (2h)
 1.  Do things as administrator (root) but only when necessary. (1h)
 1.  Install, and update software packages with apt. (1h)
-1.  Start your own custom Linux container image from scratch. (1h)
+1.  Add a user to the system and login to it. (1h)
 1.  Customize bash profile and environment. (1h)
-1.  Customize ed/ex/vi/vim configuration. (1h)
-1.  Customize TMUX configuration. (1h)
-1.  Customize lynx configuration. (1h)
 1.  Try coding in Python, C, and Go from CLI. (8h)
 1.  Create and maintain a consumable, sustainable resume. (2h)
     * Don't call yourself a "junior"
@@ -67,4 +67,3 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 
 * How to install Linux on hardware.
 * How to use Linux graphic user interfaces, desktops, and window managers.
-
