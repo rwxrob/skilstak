@@ -49,7 +49,7 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 1.  Install, and update software packages with apt. (1h)
 1.  Add a user to the system and login to it. (1h)
 1.  Customize bash profile and environment. (1h)
-1.  Try coding in Python, C, and Go from CLI. (8h)
+1.  Try coding in Python and Go from CLI. (8h)
 1.  Create and maintain a consumable, sustainable resume. (2h)
     * Don't call yourself a "junior"
     * Job titles are mostly bullshit (too bad no role-based employment)
