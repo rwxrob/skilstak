@@ -10,4 +10,3 @@
 1. What is the .vim directory used for?
 1. How can I add coding language support (Go, Python, bash, etc.)?
 1. How can I transfer my customizations to another computer?
-
