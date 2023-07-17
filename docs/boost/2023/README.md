@@ -1,6 +1,6 @@
 # 2023 Boost overview
 
-Here's what we currently plan to cover over approximately 30 weeks in 2023 with an estimated completion date sometime around December 16th based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
+Here's what we currently plan to cover. We always start on May the 4th and plan to take approximately 34 weeks with an estimated completion date sometime around January 13, 2024 based on approximately two hours per week (the least we have ever done per week). (Estimate is updated regularly and dynamically from the duration estimated below.)
 
 !!! note "Consider waiting until we are done"
 
@@ -46,12 +46,13 @@ Here's what we currently plan to cover over approximately 30 weeks in 2023 with 
 * Manage terminal windows with screen/tmux. (1h)
 * Customize TMUX configuration. (1h)
 
-## Search the Internet without leaving terminal
+## Get answers from the Internet without leaving terminal
 
 * Grok Internet networking. (1h)
 * Do effective research from command line with lynx or w3m. (1h)
 * Leverage command history using terminal editor actions to save time. (20m)
 * Customize lynx configuration. (1h)
+* Send AI (ChatGPT) queries from the command line. (1h)
 
 ## Find files (and vulnerabilities) like a hacker
 
@@ -82,16 +83,30 @@ Here's what we currently plan to cover over approximately 30 weeks in 2023 with 
 * Try a little Python. (2h)
 * Try a little Go. (2h)
 
+## Learn just enough Web dev
+
+* Know how much Web dev is expected from all techies (20m)
+* Learn enough HTML to grok Markdown rendering (1h)
+* Learn enough CSS to make rendered Markdown pretty (1h)
+* Learn enough vanilla JavaScript to add occasional widget (1h)
+* Don't bother learning any "frameworks" (for now) (20m)
+* Use only the best Web dev learning resources (20m)
+* Understand PWAs and what it means to be "progressive" (20m)
+* Use `zet` (or something like it) to publish your live notes (1h)
+* Create a static site generator with `pandoc` and 10-lines of bash (1h)
+* Publish to Web automatically with GitHub pages (30m)
+* Publish to Web automatically with Netlify (30m)
+* Learn to leverage Go text and HTML templates (30m)
+
 ## Become employable
 
 * Grok that employment is about trust and people, not positions. (20m)
 * Network and foster a professional learning network/community. (1h)
-    * Grow neck beard (where possible).
+    * Grow neck beard (where possible) lol.
     * "Strong opinions, weakly/weekly held."
 * Start listening for opportunities now. (20m)
 * Forget about LinkedIn. (20m)
 * Complete GitHub profile page and grok job discovery from GitHub. (1h)
-* Learn just enough Web development to create a personal page/blog. (2h)
 * Create and maintain a consumable, sustainable resume. (2h)
     * Don't call yourself a "junior"
     * Job titles are mostly bullshit (too bad no role-based employment)
@@ -109,7 +124,25 @@ Here's what we currently plan to cover over approximately 30 weeks in 2023 with 
 * Become a mentor. (20m)
 * Never stop learning. (20m)
 
-## What *won't* we learn?
+## What *won't* we learn (here)?
 
-* How to install Linux on hardware.
-* How to use Linux graphic user interfaces, desktops, and window managers.
+There's a lot of stuff to learn and eventually we do hope to cover it in one of the other learning series we have planned. This is a place to capture that stuff when we think of it.
+
+### Fullmetal Linux
+
+* How to install Linux on hardware (laptops, server towers, old and new).
+* How to use Linux graphic desktops and window managers
+
+### Polyglot Programming
+
+* How to create and work with containers
+* How to create micro-services
+* How to interact with Web APIs
+
+### Homelab Init
+
+* How to setup a local VLAN
+* How to setup and manage own DNS server
+* How to safely tunnel web-facing services through external providers
+* How to setup on-prem vanilla Kubernetes cluster
+* How to setup local virtual machine hosting with QEMU/libvirt
