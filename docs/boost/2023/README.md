@@ -1,6 +1,6 @@
 # 2023 Boost overview
 
-Here's what we currently plan to cover over approximately 32 weeks in 2023 with an estimated completion date sometime in December based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
+Here's what we currently plan to cover over approximately 30 weeks in 2023 with an estimated completion date sometime around December 16th based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
 
 !!! note "Consider waiting until we are done"
 
