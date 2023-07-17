@@ -8,106 +8,106 @@ Here's what we currently plan to cover over approximately 32 weeks in 2023 with 
 
 ## Manage your learning
 
-1.  Become an autodidact: learn to manage your own learning. (1h)
-1.  Take efficient, searchable notes with Markdown on GitHub. (1h)
-1.  Use search-centric system navigation on Windows, Mac, or Linux. (20m)
-1.  Grok benefit and origin of terminal command-line interface. (1h)
+* Become an autodidact: learn to manage your own learning. (1h)
+* Take efficient, searchable notes with Markdown on GitHub. (1h)
+* Use search-centric system navigation on Windows, Mac, or Linux. (20m)
+* Grok benefit and origin of terminal command-line interface. (1h)
 
 ## Get Linux
 
-1.  Install and use bash shell on Windows and Mac (besides Linux). (1h)
-1.  Know why Ubuntu, RedHat, and Alpine are most relevant Linux distros. (20m)
-1.  Create and access local Ubuntu Linux Server virtual machine with VMware. (2h)
-1.  Use secure shell (ssh) to safely interact with remote systems. (1h)
+* Install and use bash shell on Windows and Mac (besides Linux). (1h)
+* Know why Ubuntu, RedHat, and Alpine are most relevant Linux distros. (20m)
+* Create and access local Ubuntu Linux Server virtual machine with VMware. (2h)
+* Use secure shell (ssh) to safely interact with remote systems. (1h)
     * Grok public key cryptography
-1.  Do things as administrator (root) but only when necessary. (1h)
-1.  Install, and update software packages with apt. (1h)
+* Do things as administrator (root) but only when necessary. (1h)
+* Install, and update software packages with apt. (1h)
 
 ## Find your way around
 
-1.  Get help for any Linux command without the Internet. (20m)
-1.  Use tab-completion to speed command line input. (20m)
-1.  Navigate Linux file system and understand general organization. (2h)
+* Get help for any Linux command without the Internet. (20m)
+* Use tab-completion to speed command line input. (20m)
+* Navigate Linux file system and understand general organization. (2h)
 
 ## Command power
 
-1.  Capture, append, and connect command input, output, and errors. (1h)
-1.  Run commands on multiple files using wildcard globbing. (1h)
-1.  Search and filter text input and files with regular expressions. (2h)
-1.  Edit text files in-place from the command line. (1h)
+* Capture, append, and connect command input, output, and errors. (1h)
+* Run commands on multiple files using wildcard globbing. (1h)
+* Search and filter text input and files with regular expressions. (2h)
+* Edit text files in-place from the command line. (1h)
 
 ## Edit text like a pro
 
-1.  Edit text files visually using major terminal editor apps. (4h)
-1.  Customize ed/ex/vi/vim configuration. (1h)
+* Edit text files visually using major terminal editor apps. (4h)
+* Customize ed/ex/vi/vim configuration. (1h)
 
 ## Move to multiplexer
 
-1.  Manage terminal windows with screen/tmux. (1h)
-1.  Customize TMUX configuration. (1h)
+* Manage terminal windows with screen/tmux. (1h)
+* Customize TMUX configuration. (1h)
 
 ## Search the Internet without leaving terminal
 
-1.  Grok Internet networking. (1h)
-1.  Do effective research from command line with lynx or w3m. (1h)
-1.  Leverage command history using terminal editor actions to save time. (20m)
-1.  Customize lynx configuration. (1h)
+* Grok Internet networking. (1h)
+* Do effective research from command line with lynx or w3m. (1h)
+* Leverage command history using terminal editor actions to save time. (20m)
+* Customize lynx configuration. (1h)
 
 ## Find files (and vulnerabilities) like a hacker
 
-1.  Find specific files anywhere and determine what they are. (1h)
-1.  Understand and manipulate Linux file ownership and permissions. (1h)
-1.  Grok bases, binary, octal, decimal, and hexidecimal
-1.  Create a simple intrusion detection system. (1h)
+* Find specific files anywhere and determine what they are. (1h)
+* Understand and manipulate Linux file ownership and permissions. (1h)
+* Grok bases, binary, octal, decimal, and hexidecimal
+* Create a simple intrusion detection system. (1h)
 
 ## Start building your terminal toolkit
 
-1.  Grok the benefit of creating and maintain your own, portable toolkit. (20m)
-1.  Organize commands and start your own "dot files" GitHub repo. (1h)
-1.  Organize git repositories. (20m)
-1.  Save source to GitHub with git and gh. (1h)
-1.  Use symbolic links. (10m)
-1.  Write first safe shell scripts in bash and POSIX sh (ash/dash). (30m)
-1.  Check your scripts are safe with shellcheck. (20m)
-1.  Automatically format shell scripts with shfmt. (20m)
-1.  Manage processes (programs currently running). (1h)
-1.  Grok UNIX philosophies and use UNIX filters over plugins. (20m)
-1.  Understand ASCII, terminal encoding, and escape sequences. (30m)
-1.  Customize bash profile and environment. (1h)
-1.  Grok and apply everything in the bash manual page (man bash). (4h)
-1.  Do math in the shell safely and reliably with bc and dc. (1h)
-1.  Parse JSON with jq. (1h)
-1.  Parse YAML with yq. (1h)
-1.  Master parsing other delimited formats. (30m)
-1.  Try a little Python. (2h)
-1.  Try a little Go. (2h)
+* Grok the benefit of creating and maintain your own, portable toolkit. (20m)
+* Organize commands and start your own "dot files" GitHub repo. (1h)
+* Organize git repositories. (20m)
+* Save source to GitHub with git and gh. (1h)
+* Use symbolic links. (10m)
+* Write first safe shell scripts in bash and POSIX sh (ash/dash). (30m)
+* Check your scripts are safe with shellcheck. (20m)
+* Automatically format shell scripts with shfmt. (20m)
+* Manage processes (programs currently running). (1h)
+* Grok UNIX philosophies and use UNIX filters over plugins. (20m)
+* Understand ASCII, terminal encoding, and escape sequences. (30m)
+* Customize bash profile and environment. (1h)
+* Grok and apply everything in the bash manual page (man bash). (4h)
+* Do math in the shell safely and reliably with bc and dc. (1h)
+* Parse JSON with jq. (1h)
+* Parse YAML with yq. (1h)
+* Master parsing other delimited formats. (30m)
+* Try a little Python. (2h)
+* Try a little Go. (2h)
 
 ## Become employable
 
-1.  Grok that employment is about trust and people, not positions. (20m)
-1.  Network and foster a professional learning network/community. (1h)
+* Grok that employment is about trust and people, not positions. (20m)
+* Network and foster a professional learning network/community. (1h)
     * Grow neck beard (where possible).
     * "Strong opinions, weakly/weekly held."
-1.  Start listening for opportunities now. (20m)
-1.  Forget about LinkedIn. (20m)
-1.  Complete GitHub profile page and grok job discovery from GitHub. (1h)
-1.  Learn just enough Web development to create a personal page/blog. (2h)
-1.  Create and maintain a consumable, sustainable resume. (2h)
+* Start listening for opportunities now. (20m)
+* Forget about LinkedIn. (20m)
+* Complete GitHub profile page and grok job discovery from GitHub. (1h)
+* Learn just enough Web development to create a personal page/blog. (2h)
+* Create and maintain a consumable, sustainable resume. (2h)
     * Don't call yourself a "junior"
     * Job titles are mostly bullshit (too bad no role-based employment)
-1.  Target occupations you want and start applying. (1h)
+* Target occupations you want and start applying. (1h)
     * How much salary do I actually *need*?
 
 ## Have a strategy for what comes next
 
-1.  Know when and how to certify and why you might want to add it. (1h)
-1.  Set healthy work boundaries and self-care habits. (1h)
+* Know when and how to certify and why you might want to add it. (1h)
+* Set healthy work boundaries and self-care habits. (1h)
 
 ## Pay it forward! (1h)
 
-1.  Remember where you were. (20m)
-1.  Become a mentor. (20m)
-1.  Never stop learning. (20m)
+* Remember where you were. (20m)
+* Become a mentor. (20m)
+* Never stop learning. (20m)
 
 ## What *won't* we learn?
 
