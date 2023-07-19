@@ -1,6 +1,6 @@
 # 2023 Boost - Quick Start
 
-UPDATE: WSL blew up destroying `podman` so we will never be using it again. The Boost return to using a virtual machine (as in 2022). See [Week 9](week9) instead of the quick-start below for how to set that up.
+UPDATE: WSL blew up destroying `podman` so we will never be using it again. The Boost return to using a virtual machine (as in 2022). See [Week 9](../week9) instead of the quick-start below for how to set that up.
 
 ----
 
