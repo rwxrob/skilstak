@@ -1,1 +1,0 @@
-# SKILSTAK Fullmetal Linux
