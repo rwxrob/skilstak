@@ -162,13 +162,9 @@ Laptops and machines compatible with Linux can easily be found among those norma
 
 There's a lot of stuff to learn and eventually we do hope to cover it in one of the other learning series we have planned. This is a place to capture that stuff when we think of it.
 
-### Fullmetal Linux
-
-* How to install Linux on hardware (laptops, server towers, old and new).
-* How to use Linux graphic desktops and window managers
-
 ### Polyglot Programming
 
+* How to code in any language other than bash and a little Python and C
 * How to create and work with containers
 * How to create micro-services
 * How to interact with Web APIs
