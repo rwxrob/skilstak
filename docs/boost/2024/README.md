@@ -32,7 +32,16 @@ Laptops and machines compatible with Linux can easily be found among those norma
 * Take efficient, searchable notes with Markdown on GitHub. (1h)
 * Grok benefit and origin of command line and terminal user interfaces. (1h)
 
-## Get Ubuntu Linux
+## Install Linux
+
+It is still generally not possible to purchase Linux on a new computer (even if and when it is possible you generally wouldn't want to overpay to do it). Besides, there are few joys in the life of a techie more satisfying than breathing new life into old, discarded computers resurrecting them from the grave of deprecation to live again as truly great Linux servers and secondary workstations.
+
+We will install Linux onto four different machines:
+
+1. Virtual machine with Kali Linux Desktop
+1. Virtual machine with FreeBSD
+1. Headless server with Ubuntu Server
+1. Laptop workstation with Linux Mint Cinnamon
 
 * Install bash terminal on anything (Windows, Mac, Linux). (1h)
 * Know why Ubuntu is the most relevant Linux distro. (20m)
@@ -41,6 +50,9 @@ Laptops and machines compatible with Linux can easily be found among those norma
     * Grok basics of public key cryptography
 * Do things as administrator (admin, root) but only when necessary. (20m)
 * Install and update software with `apt` package manager. (1h)
+
+TODO
+
 * Create Linux Mint Cinnamon (desktop) installer on USB stick. (20m)
 * Install Linux Mint Cinnamon (desktop) onto dedicated Linux workstation. (1h)
 
