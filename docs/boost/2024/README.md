@@ -4,7 +4,7 @@
 
 !!! note "Consider waiting until we are done"
 
-    Some people may find it better to simply wait until the entire 2023 Boost has completed so they can work as fast as they want through the material at their own pace---particularly if you are impatient and have a hard time with the informal, often disorganized way we work through the content.
+    Some people may find it better to simply wait until the entire Boost has completed so they can work as fast as they want through the material at their own pace---particularly if you are impatient and have a hard time with the informal, often disorganized way we work through the content.
 
 ## Before we begin ...
 

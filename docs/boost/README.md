@@ -2,11 +2,11 @@
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners learn to use the Linux terminal command-line (and land lucrative jobs that require or benefit from them). As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11 but anyone can follow along from previous years or join in the middle and catch up by watching videos and asking questions in our Discord.
+Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get started with Linux with an emphasis on command-line and terminal user interface skills (and land lucrative jobs that requires or benefits from them). As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11 but anyone can follow along from previous years or join in the middle and catch up by watching videos and asking questions in our Discord.
 
 ## What is the format of the video sessions?
 
-Each week we do two, one-hour sessions split up with a 10 minute break in between to get ads out of the way and to ask informal questions and rest a bit. Each hour long session is uploaded as a video to YouTube where it can be paused, sped up, and followed. Eventually, chapters are added to the videos (as the community can get to it).
+Each week we do one 2-3 hour session with occasional breaks ask informal questions and rest a bit. Each week a YouTube video is posted so it can be paused, sped up, and followed. Sometimes the community will add chapters as well (feel free to volunteer).
 
 The flow of the video content is just Rob doing stuff and talking about it along the way, occasionally taking live questions. Chat is never included in the videos but can be followed by those participating live. When following YouTube videos those learning can still ask questions in the Discord where the community can help and Rob can occasionally follow up.
 
@@ -16,12 +16,16 @@ Check <https://bit.ly/rwxrobsched> for times. Even though they are live on Twitc
 
 ## What is needed to participate?
 
-Boosts are always free (although donations, subs, and tips are appreciated and motivating). You will need a capable computer and minimal admin permissions and skills for installing stuff into that computer. (Windows and Mac administration is not covered by the Boost.)
+Boosts are always free (although donations, subs, and tips are appreciated and motivating). You will need a secure Internet connection, a capable computer with minimal admin permissions and skills for installing stuff into that computer. (Windows and Mac administration is not covered by the Boost.) Here are the specs for your main computer:
 
 * Win/Mac/Linux
 * 4 Core (CPU)
 * 8 GB Memory (RAM)
 * 100 GB Free HD
+
+This computer will be a reliable place from which to participate and onto which you will install a minimal Linux virtual machine.
+
+Beginning in 2024 you will also need a minimal additional computer on which to install Linux "on metal" (a *real* machine in addition to your virtual one).
 
 ## Why every year?
 
