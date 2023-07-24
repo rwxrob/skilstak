@@ -58,19 +58,19 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 
 * Find specific files anywhere and determine what they are. (1h)
 * Understand and manipulate Linux file ownership and permissions. (1h)
-* Grok bases, binary, octal, decimal, and hexidecimal
-* Create a simple intrusion detection system. (1h)
+* Grok bases, binary, octal, decimal, and hexadecimal
 
 ## Start building your terminal toolkit
 
 * Grok the benefit of creating and maintain your own, portable toolkit. (20m)
 * Organize commands and start your own "dot files" GitHub repo. (1h)
 * Organize git repositories. (20m)
-* Save source to GitHub with git and gh. (1h)
+* Save source to GitHub with `git` and `gh`. (1h)
 * Use symbolic links. (10m)
-* Write first safe shell scripts in bash and POSIX sh (ash/dash). (30m)
-* Check your scripts are safe with shellcheck. (20m)
-* Automatically format shell scripts with shfmt. (20m)
+* Understand implications of different shell scripting languages. (30m)
+* Write first POSIX-compliant shell script. (30m)
+* Check your scripts are safe with `shellcheck`. (20m)
+* Automatically format shell scripts with `shfmt`. (20m)
 * Manage processes (programs currently running). (1h)
 * Grok UNIX philosophies and use UNIX filters over plugins. (20m)
 * Understand ASCII, terminal encoding, and escape sequences. (30m)
