@@ -49,7 +49,47 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 ## Get answers from the Internet without leaving terminal
 
 * Grok Internet networking. (1h)
+    * History
+        * <https://youtu.be/qvUYPm2nVXM>
+    * Ethernet
+        * Routing
+           * Local Area Network (LAN)
+           * Wide Area Network (WAN)
+           * `tracepath`, `traceroute`, `pathping`, `tracert`, `mtr`
+           * Mac address, Ethernet address (machine address)
+           * Dynamic Host Control Protocol (DHCP)
+           * Network Interface Controller (NIC)
+        * Ports
+           * Pub door analogy
+           * Reserved ports
+           * `netstat`, `nmap`, `lsof`
+        * Network Address Translation (NAT)
+    * Firewalls
+    * IP
+    * TCP/IP
+    * UDP
+    * Domain names
+        * Registrars
+        * Discovery
+            * `whois`
+            * `nslookup`, `dig`
+            * <https://shodan.io>
+        * localhost 127.0.0.1
+        * Reserved
+        * `/etc/hosts`
+    * HTTP, HTTPS (TLS)
+    * Secure Shell
+        * `~/.ssh/config`
+    * Beware of legacy: FTP, Telnet, Gopher, IPP
+* Know the common network query commands. (30m)
+    * `dig`, `nslookup`
+    * `ifconfig`, `ipconfig`, `ip`, `ss`
+    * `ping`
+    * `nmap`
+    * `ncat`/`nc`
+    * `iptables`, `ufw`
 * Do effective research from command line with lynx or w3m. (1h)
+* Use `curl` and `wget` to fetch data and files from command line. (20m)
 * Leverage command history using terminal editor actions to save time. (20m)
 * Customize lynx configuration. (1h)
 * Send AI (ChatGPT) queries from the command line. (1h)
@@ -58,7 +98,7 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 
 * Find specific files anywhere and determine what they are. (1h)
 * Understand and manipulate Linux file ownership and permissions. (1h)
-* Grok bases, binary, octal, decimal, and hexadecimal
+* Grok bases, binary, octal, decimal, and hexadecimal. (20m)
 
 ## Start building your terminal toolkit
 
