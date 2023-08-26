@@ -98,7 +98,7 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 
 * Find specific files anywhere and determine what they are. (1h)
 * Understand and manipulate Linux file ownership and permissions. (1h)
-* Grok bases, binary, octal, decimal, and hexadecimal. (20m)
+* Use symbolic links. (10m)
 
 ## Start building your terminal toolkit
 
@@ -106,11 +106,11 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 * Organize commands and start your own "dot files" GitHub repo. (1h)
 * Organize git repositories. (20m)
 * Save source to GitHub with `git` and `gh`. (1h)
-* Use symbolic links. (10m)
 * Understand implications of different shell scripting languages. (30m)
 * Write first POSIX-compliant shell script. (30m)
 * Check your scripts are safe with `shellcheck`. (20m)
 * Automatically format shell scripts with `shfmt`. (20m)
+* Grok bases, binary, octal, decimal, and hexadecimal. (20m)
 * Manage processes (programs currently running). (1h)
 * Grok UNIX philosophies and use UNIX filters over plugins. (20m)
 * Understand ASCII, terminal encoding, and escape sequences. (30m)
