@@ -6,6 +6,8 @@
 * Which shell should I use?
 * What is the difference between an interactive shell and shell scripting?
 * What is the difference between GPLv2 and GPLv3 licenses?
+* Everyone should use `shellcheck`.
+* Dynamic `shellcheck` with Vim Ale.
 * Getting started coding POSIX shell and bash.
 * Coding your own `tripwire` program to catch hackers (in 20 lines of shell code).
 * The find command, perhaps the least appreciated in all of UNIX.
