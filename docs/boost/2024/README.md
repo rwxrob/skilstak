@@ -1,5 +1,7 @@
 # 2024 Boost overview
 
+***Note this is just a place to update and plan for 2024 based on discoveries and changes in 2023.***
+
 2024 returns to the original focus of installing and running Linux on "metal" meaning that participants are required to first acquire a machine on which to install Linux during the Boost and that we will be covering the installation onto a *real* machine (in addition to a *virtual* machine). The rest is the same as 2023.
 
 !!! note "Consider waiting until we are done"
