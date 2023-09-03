@@ -187,3 +187,18 @@ There's a lot of stuff to learn and eventually we do hope to cover it in one of 
 * How to safely tunnel web-facing services through external providers
 * How to setup on-prem vanilla Kubernetes cluster
 * How to setup local virtual machine hosting with QEMU/libvirt
+
+### Professional Git and GitHub usage
+
+* Forking and modifying
+* Branching and merging
+* Issue-driven pull requests
+* Locking `main`/`master` branch
+* Licensing issues
+* Release management
+* GitHub Actions
+* Continuous Integration
+* Continuous Deployment
+* GitOps
+* Dockerfile container image creation
+
