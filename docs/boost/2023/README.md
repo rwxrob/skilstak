@@ -97,20 +97,20 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 ## Find files (and vulnerabilities) like a hacker
 
 * Find specific files anywhere and determine what they are. (1h)
-* Understand and manipulate Linux file ownership and permissions. (1h)
 * Use symbolic links. (10m)
+* Create a `tripwire` program to catch hackers (see what changed). (2h)
 
 ## Start building your terminal toolkit
 
 * Grok the benefit of creating and maintain your own, portable toolkit. (20m)
 * Organize commands and start your own "dot files" GitHub repo. (1h)
 * Organize git repositories. (20m)
-* Save source to GitHub with `git` and `gh`. (1h)
+* Save source to GitHub with `git` and `gh` (with `ssh` keys). (1h)
+* Understand and manipulate Linux file ownership and permissions. (1h)
 * Understand implications of different shell scripting languages. (30m)
 * Write first POSIX-compliant shell script. (30m)
 * Check your scripts are safe with `shellcheck`. (20m)
 * Automatically format shell scripts with `shfmt`. (20m)
-* Grok bases, binary, octal, decimal, and hexadecimal. (20m)
 * Manage processes (programs currently running). (1h)
 * Grok UNIX philosophies and use UNIX filters over plugins. (20m)
 * Understand ASCII, terminal encoding, and escape sequences. (30m)
@@ -120,6 +120,7 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 * Parse JSON with jq. (1h)
 * Parse YAML with yq. (1h)
 * Master parsing other delimited formats. (30m)
+* Grok bases, binary, octal, decimal, and hexadecimal. (20m)
 * Try a little Python. (2h)
 * Try a little Go. (2h)
 
