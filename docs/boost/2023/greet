@@ -1,0 +1,13 @@
+#!/bin/sh
+
+rfcdate() {
+	date --rfc-3339 seconds
+}
+
+greet() {
+	rfcdate
+	echo "first arg:  '$1'"
+	echo "second arg: '$2'"
+}
+
+greet "$@"    # "$1" "$2" ...
