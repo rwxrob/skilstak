@@ -1,0 +1,37 @@
+#!/bin/sh
+# shellcheck disable=SC2059
+
+black="\e[30m"
+red="\e[31m"
+yellow="\e[33m"
+magenta="\e[35m"
+white="\e[37m"
+reset="\e[0m"
+
+echo "${yellow}Answer me these questions three, 'ere the other side ye see:${reset}"
+
+printf "${magenta}What is your name? ${white}"
+read -r name
+echo "${reset}"
+
+echo "${black}You entered: ${red}$name${reset}"
+
+echo "${yellow}What is your quest?${reset}"
+case $name in
+
+	"Robin")
+		printf "${yellow}What is your capital of Assyria? ${white}";;
+
+	"Lancelot")
+
+		printf "${yellow}What is your favorite colour? ${white}";;
+
+	"Arthur")
+		printf "${yellow}What is the air speed velocity of an unladen swallow? ${white}";
+		printf "How do you know so much about swallows?";
+		echo "Well, as a King you have to know these things you know.";;
+
+	*)
+		echo "What is your favorite colour?";;
+
+esac

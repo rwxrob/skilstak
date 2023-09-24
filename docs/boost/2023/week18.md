@@ -1,6 +1,6 @@
 # 2023 Boost - Week 18
 
-Procedural programming fundamentally implies performing the individual tasks (or groups of tasks) of a procedure, sometimes based on certain conditions (called "state" formally). Some people call this "flow control" or "boolean logic" since true or false conditions dictate what happens. Hence another name "conditional programming". Think "if-then" (instead of, for example, "when-then").
+Procedural programming fundamentally implies performing individual tasks or grouped together into procedures and functions into which values can be passed as arguments into parameters.
 
 * What does the word "procedure" mean?
 * What happens when I add a script into PATH that isn't executable?
@@ -16,14 +16,6 @@ Procedural programming fundamentally implies performing the individual tasks (or
 * What is the difference between `$@` and `$*`?
 * What are return values and when should I care about them?
 * What does `$?` contain?
-
-* Should I use tabs or spaces in shell code indentation?
-* How do I limit what happens based on different values?
-* How do I repeat something one or more times?
-* How do I read an entire file into a variable?
-* How do I do something to every line of a file?
-* What is "parameter expansion" and how can I use it?
-* How do I use regular expressions with shell/bash?
 
 Related:
 
