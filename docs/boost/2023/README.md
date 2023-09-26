@@ -135,6 +135,7 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 * Understand PWAs and what it means to be "progressive" (20m)
 * Use `zet` (or something like it) to publish your live notes (1h)
 * Create a static site generator with `pandoc` and 10-lines of bash (1h)
+* Document anything with MkDocs (2h)
 * Publish to Web automatically with GitHub pages (30m)
 * Publish to Web automatically with Netlify (30m)
 * Learn to leverage Go text and HTML templates (30m)
@@ -165,23 +166,28 @@ Here's what we currently plan to cover. We always start on May the 4th and plan 
 * Become a mentor. (20m)
 * Never stop learning. (20m)
 
+-------------------------------------------------------------
+
 ## What *won't* we learn (here)?
 
 There's a lot of stuff to learn and eventually we do hope to cover it in one of the other learning series we have planned. This is a place to capture that stuff when we think of it.
 
-### Fullmetal Linux
-
-* How to install Linux on hardware (laptops, server towers, old and new).
-* How to use Linux graphic desktops and window managers
-
 ### Polyglot Programming
+
+Learning to code in shell/bash is included in the Boost (since using a Linux terminal command line *is* coding so might as well learn all of it). The Boost also includes web design basics (Markdown, HTML, CSS) in order to create and format personal profile page and documentation.
+
+All other programming languages have their own series that rotates annually in parallel to the Beginner Boost. The languages we learn rotate in the following order:
+
+* Go
+* Python
+* JavaScript + Typescript
+* C
+
+### Homelab Init
 
 * How to create and work with containers
 * How to create micro-services
 * How to interact with Web APIs
-
-### Homelab Init
-
 * How to setup a local VLAN
 * How to setup and manage own DNS server
 * How to safely tunnel web-facing services through external providers
