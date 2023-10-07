@@ -1,6 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 # shellcheck disable=SC2059
 
+clear="\e[H\e[2J"
 black="\e[30m"
 red="\e[31m"
 yellow="\e[33m"
@@ -8,30 +9,46 @@ magenta="\e[35m"
 white="\e[37m"
 reset="\e[0m"
 
-echo "${yellow}Answer me these questions three, 'ere the other side ye see:${reset}"
+printf "${clear}${yellow}Answer me these questions three, 'ere the other side ye see:${reset}\n"
 
 printf "${magenta}What is your name? ${white}"
 read -r name
-echo "${reset}"
+printf "${reset}"
 
-echo "${black}You entered: ${red}$name${reset}"
+printf "${black}You entered: ${red}$name${reset}\n"
 
-echo "${yellow}What is your quest?${reset}"
-case $name in
+printf "${yellow}What is your quest?${reset}\n"
 
-	"Robin")
-		printf "${yellow}What is your capital of Assyria? ${white}";;
+if [[ ${name,,} =~ rob ]]; then
+	echo yes
+fi
 
-	"Lancelot")
+# lname=$(printf "$name" | tr '[:upper:]' '[:lower:]')
+# 
+# case $name in
+# 
+# 	rob*)
+# 		printf "${yellow}What is your capital of Assyria? ${white}\n";;
+# 
+# 	lancelot)
+# 
+# 		printf "${yellow}What is your favorite colour? ${white}\n";;
+# 
+# 	arthur)
+# 		printf "${yellow}What is the air speed velocity of an unladen swallow? ${white}\n";
+# 		printf "How do you know so much about swallows?\n";
+# 		printf "Well, as a King you have to know these things you know.\n";;
+# 
+# 	*)
+# 		printf "What is your favorite colour?\n";;
+# 
+# esac
 
-		printf "${yellow}What is your favorite colour? ${white}";;
+printf "${yellow}Would you like to play again? [n] ${reset}: ${white}\n"
+read -r yes
+printf "${reset}"
 
-	"Arthur")
-		printf "${yellow}What is the air speed velocity of an unladen swallow? ${white}";
-		printf "How do you know so much about swallows?";
-		echo "Well, as a King you have to know these things you know.";;
-
-	*)
-		echo "What is your favorite colour?";;
-
+case $yes in
+	[Yy]) printf "Okay";;
+	*) printf "Fine";;
 esac
