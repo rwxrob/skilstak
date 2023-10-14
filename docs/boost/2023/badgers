@@ -1,0 +1,31 @@
+#!/bin/bash
+# shellcheck disable=SC2059
+
+black="\e[30m"
+green="\e[32m"
+yellow="\e[33m"
+reset="\e[0m"
+
+output () {
+	local -i max=$1
+	local sec=$2 color=$3 string=$4
+	for (( count=0; count<max; count++ )); do
+		printf "$color$((count+1)) $string $reset\n"
+		sleep "$sec"
+	done
+}
+
+verse () {
+	output 12 0.3 "$black" "badgers!"
+	output 2 0.6 "$yellow" "mushrooms!"
+}
+
+chorus () {
+	output 1 1 "$green" \ "Ah snake, ah snake, snake, snake, ooh it's a snake!"
+}
+
+#for ((count=0;count<3;count++)); do verse; done
+for _ in {1..3}; do verse; done
+chorus
+verse
+
