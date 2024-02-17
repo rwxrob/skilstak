@@ -1,8 +1,6 @@
 # 2024 Boost overview
 
-***Note this is just a place to update and plan for 2024 based on discoveries and changes in 2023.***
-
-2024 returns to the original focus of installing and running Linux on "metal" meaning that participants are required to first acquire a machine on which to install Linux during the Boost and that we will be covering the installation onto a *real* machine (in addition to a *virtual* machine). The rest is the same as 2023.
+***Note 2024 is still in planning stages.***
 
 !!! note "Consider waiting until we are done"
 
@@ -14,7 +12,7 @@ Here's what you need before considering the Boost. Don't worry, it's not much---
 
 * Internet access from a secure local area network (home, school, etc.)
 * A reliable computer connected to the Internet (Mac, Windows, Linux)
-* A minimal computer with Intel chip on which to install Linux
+* A minimal computer (preferably with Intel chip) on which to install Linux
 * 8+ GB USB thumb drive that can be completely overwritten.
 
 The reason for the first computer is to have a reliable connection to the Internet on which to initially take notes, create GitHub account, read documentation, watch Boost videos, download installation files, and create the USB drive you'll use to install Linux onto the second computer. This also frees you from any impact should the Linux installation fail for any reason.
@@ -190,3 +188,37 @@ There's a lot of stuff to learn and eventually we do hope to cover it in one of 
 * How to safely tunnel web-facing services through external providers
 * How to setup on-prem vanilla Kubernetes cluster
 * How to setup local virtual machine hosting with QEMU/libvirt
+
+## Changes since 2023 (and other previous Boosts)
+
+2024 we are breaking the Beginner Boost up into smaller educational content modules in line with the original 2013 SKILSTAK content organization:
+
+1.  Start a career in tech
+2.  Create a basic web with with HTML, CSS, and JavaScript
+3.  Get a Linux machine
+4.  Learn the Bash Command Line
+5.  Learn coding fundamentals in Python and JavaScript
+6.  Learn C for understanding
+7.  Develop enterprise software in Go
+8.  Leverage Linux containers (docker, podman)
+
+In addition, the following will be back to SKILSTAK original pedagogical format:
+
+* Linux on machines, both virtual and metal (no containers)
+
+As usual, none of this annual content will ever cover the following important topics and most tech professionals will have to learn elsewhere:
+
+* Cloud services
+* Data structures and algorithms
+* Creating and working with AI models
+* Kubernetes
+* Cybersecurity
+* Computer engineering
+
+These are not covered because they are specializations of a particular tech career path rather than general knowledge that all tech professionals should have preferably before pursuing a career in tech at all.
+
+### Linux machines, metal and virtual
+
+2024 returns to the original focus of installing and running Linux on a real ("metal") machine in addition to installing on a VMware virtual machine running on Windows or Mac. 
+
+
