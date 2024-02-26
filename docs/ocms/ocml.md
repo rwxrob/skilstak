@@ -1,2 +1,0 @@
-# Open Markup Language (OCML)
-

@@ -2,17 +2,59 @@
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get started with Linux with an emphasis on command-line and terminal user interface skills (and land lucrative jobs that requires or benefits from them). As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11 but anyone can follow along from previous years or join in the middle and catch up by watching videos and asking questions in our Discord.
+Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero. As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
-## What is the format of the video sessions?
+1.  18-20: [JOB] Start a career in tech (3 weeks, 9 blocks)
+2.  21-25: [WEB] Create basic web site with Markdown, HTML, CSS (4 weeks, 12 blocks)
+3.  26-30: [LINUX] Get a Linux machine (4 weeks, 12 blocks)
+4.  31-39: [BASH] Learn the Bash Command Line (8 weeks, 24 blocks)
+5.  40-52: [CODE] Learn to code in Python and JavaScript (12 weeks, 36 blocks)
+6.  52-01: [C] Learn C for understanding (2 weeks, condensed[^1], 28 blocks)
+7.  02-14: [GO] Develop enterprise software in Go (12 weeks, 36 blocks)
+8.  15-17: [LXC] Leverage Linux containers (docker, podman) (3 weeks, 9 blocks)
 
-Each week we do one 2-3 hour session with occasional breaks ask informal questions and rest a bit. Each week a YouTube video is posted so it can be paused, sped up, and followed. Sometimes the community will add chapters as well (feel free to volunteer).
+[^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December with two blocks (about 90 minutes) per day from noon-2pm Eastern time. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
+
+!!! note Just a boost
+
+  Remember that this is just a boost to get you going. We'll shoot for breadth over depth so that you go away at least knowing what you don't know and have the confidence to do stuff to fill in your knowledge and mastery. The biggest challenge most learners have is knowing what to learn and why.
+
+## Where can I watch and participate?
+
+Weekly video sessions are simultaneously livestreamed to Twitch, YouTube, Facebook, and Kick. Twitch is the primary platform and required for anyone who wants to play the games during the breaks. Chat from any of these platforms is visible but not necessarily relayed to the other platforms. In addition, Discord #live-chat channel contains all the chat from each session in a searchable format.
+
+!!! warning You are recorded
+    Everything you write in the chat is saved forever with the livestream video session. It is up to you to remain professional and civil. If not, you'll be banned. It is also up to you to maintain your own level of privacy.
+
+## What if I cannot make the live sessions?
+
+[Twitch](https://twitch.tv/rwxrob) is where the learning party is. We encourage you—above all—to join us live on Twitch for all the fun, learning, music, and hype. Who knows? You just might be gifted a free subscription by another kind community member, or win the Stream Avatars battle royal! What will *your* avatar be?
+
+However, we understand not everyone can make the party, plus there are some serious party-poopers who might not even want to party.😬  So, within about 24 hours a tame, edited video from the live session is posted to YouTube without the *Beginning*, *Ending*, breaks, q&a, games, stories, music, silliness, and raiding. *Beginning*, *Ending* and breaks are also never streamed live to YouTube (mostly because music triggers stream suspension on YouTube).
+
+## What is the session format and when are they?
+
+We do one video per week that is broken up into five parts with the core 40 minute blocks having a six-minute break between each:
+
+|Time    | Minutes | YouTube | Content |
+| :-:    | :-:     | :-:     | -       |
+| 11:40  | 20      | No      | Beginning
+| noon   | 40      | Yes     | First Block
+| 12:40  | 6       | No      | Break
+| 12:46  | 40      | Yes     | Second Block
+| 13:26  | 6       | No      | Break
+| 13:32  | 40      | Yes     | Third Block
+| 14:12  | 6       | No      | Break
+| 14:18  | 20      | No      | Ending
+| 14:38  | 2       | No      | Raid!
+
+The *Beginning* and *Ending* are for learning hype and answering questions about homework and such.
+
+
+!!! note Attention span
+    There's good science that shows the average attention span of a person between 12 and 20 is a maximum of 48 minutes (but as low as 20 minutes). Hence, the 40 minute blocks.
 
 The flow of the video content is just Rob doing stuff and talking about it along the way, occasionally taking live questions. Chat is never included in the videos but can be followed by those participating live. When following YouTube videos those learning can still ask questions in the Discord where the community can help and Rob can occasionally follow up.
-
-## When are they?
-
-Check <https://bit.ly/rwxrobsched> for times. Even though they are live on Twitch every week (usually at the same time) anyone can follow along through the YouTube videos and Discord as well. People from all around the globe regularly participate (and we thank you).
 
 ## What is needed to participate?
 
@@ -24,8 +66,6 @@ Boosts are always free (although donations, subs, and tips are appreciated and m
 * 100 GB Free HD
 
 This computer will be a reliable place from which to participate and onto which you will install a minimal Linux virtual machine.
-
-Beginning in 2024 you will also need a minimal additional computer on which to install Linux "on metal" (a *real* machine in addition to your virtual one).
 
 ## Why every year?
 
@@ -39,15 +79,11 @@ We do the Boost every year mostly because technology is advancing at an exponent
 
 ## Boost is not a course
 
-The Beginner Boost is not a course. There is no syllabus, no certificate, no credential, no proof you did anything except your own work, notes, and knowledge. There's barely a schedule and and outline and we change that organically as we go through it.
+The Beginner Boost is not a course. There is no syllabus, no certificate, no credential, no proof you did anything except your own work, notes, and knowledge. There's barely a schedule and outline and we change that organically as we go through it.
 
 !!! warning "Start thinking like a hacker"
 
     Most people need to get the old, broken ideas about learning out of their heads and start learning and thinking like a "hacker." People who require the on-a-plate, tell-me-what-to-do form of education generally do very poorly in tech careers. We'll talk more about that during the Boost itself when we discuss the nature of *true* learning.
-
-## What will we learn?
-
-Because the Boost is a live, crowd-sourced, learning event, the content is always very organic and changes based on what makes sense as we encounter it. Each year is different. (See the Overview for that specific year.)
 
 ## How-to (recipe) format
 

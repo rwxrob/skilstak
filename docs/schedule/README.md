@@ -12,3 +12,7 @@ Our annual schedule begins and ends on May the 4th every year. On that day we ki
 8.  15-17: [LXC] Leverage Linux containers (docker, podman) (3 weeks)
 
 [^1]: **Learn C for understanding** is done at an accelerated pace from the Head First C book over the two-week holiday break in December (weeks 52 and week 1) with about 90 minutes per day. We do not plan to finish the book but will work through as much as possible together.
+
+!!! note Just a boost
+
+  Remember that this is just a boost to get you going. We'll shoot for breadth over depth so that you go away at least knowing what you don't know and have the confidence to do stuff to fill in your knowledge and mastery. The biggest challenge most learners have is knowing what to learn and why.
