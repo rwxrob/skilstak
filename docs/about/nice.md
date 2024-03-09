@@ -623,5 +623,15 @@ Won't you join us?
 
 - Name: adrnlnJnky
   Text: ->
-    I want to share: I took your Linux class in 2020 during the Covid lockdown. I took your course then, from there I learned Go, then randomly Elixir and now I have a job as a developer. That course your did for free was the jump point that got me moving forward with traction...
+    I want to share: I took your Linux class in 2020 during the Covid lockdown.
+    I took your course then, from there I learned Go, then randomly Elixir and
+    now I have a job as a developer. That course your did for free was the jump
+    point that got me moving forward with traction...
+
+- Name: Dizzyfly
+  Text: ->
+    Hi Rob! I hope all is well. I landed and kept my job thanks to your 2021
+    boost series on YouTube.
 ```
+
+
