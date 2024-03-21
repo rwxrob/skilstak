@@ -637,6 +637,10 @@ Won't you join us?
   Text: ->
     They haven't invented a title yet for the type of influencer you are.
 
+- Name: Alex
+  Text: ->
+    Not sure if you remember me. I was at SkilStaks when it was in Cornelius around when I was in middle school or something and just wanted to thank you for all your teaching as now I'm a Freshman at UNC Charlotte and I was able to use what I learned all the way back then with Python to actually be able to test out of one of my classes.
+
 ```
 
 
