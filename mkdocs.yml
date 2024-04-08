@@ -29,6 +29,9 @@ markdown_extensions:
       permalink: "#"
 
 extra:
+  analytics:
+    provider: google
+    property: G-8N0TMNBTTP
   generator: false
   social:
     - icon: fontawesome/brands/github
