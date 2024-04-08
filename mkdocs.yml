@@ -3,7 +3,7 @@ site_url: https://skilstak.io
 repo_url: https://github.com/rwxrob/skilstak
 edit_uri: blob/main/docs/
 repo_name: rwxrob/skilstak
-copyright: Copyright &copy; 2013 - 2023 Robert S. Muhlestein
+copyright: Copyright &copy; 2013 - 2024 Robert S. Muhlestein
 
 dev_addr: '0.0.0.0:8000'
 
