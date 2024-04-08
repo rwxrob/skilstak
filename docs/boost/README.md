@@ -2,7 +2,11 @@
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero. As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
+Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero. 
+
+## Schedule
+
+As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
 1.  18-20: [JOB] Start a career in tech (3 weeks, 9 blocks)
 2.  21-25: [WEB] Create basic web site with Markdown, HTML, CSS (4 weeks, 12 blocks)
