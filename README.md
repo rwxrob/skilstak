@@ -1,4 +1,2 @@
 # SKILSTAK Learning Community
 
-Testing
-
