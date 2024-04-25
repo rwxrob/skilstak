@@ -2,36 +2,36 @@
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero. 
+Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
 
 ## Schedule
 
 As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
-1.  18-20: [JOB] Start a career in tech (3 weeks, 9 blocks)
-2.  21-25: [WEB] Create basic web site with Markdown, HTML, CSS (4 weeks, 12 blocks)
-3.  26-30: [LINUX] Get a Linux machine (4 weeks, 12 blocks)
-4.  31-39: [BASH] Learn the Bash Command Line (8 weeks, 24 blocks)
-5.  40-52: [CODE] Learn to code in Python and JavaScript (12 weeks, 36 blocks)
-6.  52-01: [C] Learn C for understanding (2 weeks, condensed[^1], 28 blocks)
-7.  02-14: [GO] Develop enterprise software in Go (12 weeks, 36 blocks)
-8.  15-17: [LXC] Leverage Linux containers (docker, podman) (3 weeks, 9 blocks)
+1.  18-20: [job] Start a career in tech (3 weeks)
+2.  21-25: [web] Create basic web site with Markdown, HTML, CSS (4 weeks)
+3.  26-30: [linux] Get a Linux machine (4 weeks)
+4.  31-39: [bash] Learn the Bash Command Line (8 weeks)
+5.  40-52: [code] Learn to code in Python and JavaScript (12 weeks)
+6.  52-01: [c] Learn C for understanding (2 weeks, condensed[^1])
+7.  02-14: [go] Develop enterprise software in Go (12 weeks)
+8.  15-17: [lxc] Leverage Linux containers (docker, podman) (3 weeks)
 
-[^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December with two blocks (about 90 minutes) per day from noon-2pm Eastern time. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
+[^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
 
 ## Boost is not a course
 
-Remember that this is just a boost to get you going. We'll shoot for breadth over depth so that you go away at least knowing what you don't know and have the confidence to do stuff to fill in your knowledge and mastery. The biggest challenge most learners have is knowing what to learn and why.
+Remember that this is just a boost to get you going. We'll shoot for breadth over depth so that you go away at least knowing what you don't know and have the confidence to do stuff to fill in the gaps in your knowledge and mastery. The biggest challenge most learners have is knowing what to learn and why.
 
-The Beginner Boost is not a course. There is no syllabus, no certificate, no credential, no proof you did anything except your own work, notes, and knowledge. There's barely a schedule and outline and we change that organically as we go through it.
+The Beginner Boost is not a course. There is no syllabus, no certificate, no credential, no proof you did anything except your own work, notes, and knowledge. There's barely a schedule that changes organically as we go through it.
 
 !!! warning "Start thinking like a hacker"
 
-    Most people need to get the old, broken ideas about learning out of their heads and start learning and thinking like a "hacker." People who require the on-a-plate, tell-me-what-to-do form of education generally do very poorly in tech careers. We'll talk more about that during the Boost itself when we discuss the nature of *true* learning.
+    Most people need to forget the old, broken ideas about learning, and start learning and thinking like a hacker. People who require the on-a-plate, tell-me-what-to-do form of education generally do very poorly in tech careers. We'll talk more about that during the Boost itself when we discuss the nature of *true* learning.
 
 ## Targeted careers
 
-When deciding what to include we like to keep a list of typical job titles you might see out there that either require or strongly benefit from the skills, knowledge, and abilities covered by the Boost:
+When deciding what to include we like to keep a list of typical job titles you might see out there that require or strongly benefit from the skills, knowledge, and abilities (SKAs for short) covered by the Boost:
 
 * Security Analyst (Hacker)
 * Site Reliability Engineer (SRE)
@@ -53,17 +53,17 @@ When deciding what to include we like to keep a list of typical job titles you m
 
 !!! tip "Check out the Bureau of Labor and Statistics technology careers"
 
-    The US BLS updates an annual collection of statistics related to career growth, demand, and pay. It's definitely worth checking out.
+    The US BLS updates an annual collection of statistics related to career growth, demand, and pay. It is definitely worth checking out.
 
     <https://www.bls.gov/ooh/computer-and-information-technology>
 
     Take particular note of the **Job Outlook** indicating how fast the demand for each career is growing. For example, demand for **Information Security Analysts** (hackers) is growing by 35%, one of the fastest growing professions *of all* outpacing the next fastest growing tech career by 10% (**Software Developers**, 25%)! Beginner Boost skills are absolutely essential for *any* career in the Information Security industry and will give any Software Developer a solid advantage over all the rest.
 
-## Skills (how-to) format
+## Skills format
 
-Content is organized into specific skills as would be listed in a job description or resume. This provided better searchability, review, and is consistent with popular "recipe" book organization used by O'Reilly and others over the years. Taking notes in this fashion is also more flexible because each question and answer can be reorganized as the learner finds most sensible later.
+Content is organized into procedural "how-to"s for specific skills as would be listed in a job description or resume. This provides better searchability, review, and is consistent with popular "recipe" books used by O'Reilly and others.
 
-This is also the basis of learning like a hacker, or a magician for that matter. Each "trick" (or task) is captured with its steps. These tricks can then be combined in different ways. In a very real sense, learning this way is much like writing code for your own brain, each task is a subroutine.
+Explaining procedures in this way is also the basis of learning like a hacker, or a magician for that matter. Each "trick" (or task) is captured with its specific steps. Tricks can then be combined in different ways. Learning this way is much like writing code for your own brain, or programming humans as if each task had a subroutine that can be written and stored in neurons like RAM in a computer.
 
 The Boost learning model, therefore, is designed to help you program your own brain to be able to do things much like an AI or software application. In fact, the only difference is that in order to write the code into your brain you have to repeat the steps of any task over and over to create those neural pathways, which is *exactly* what modern AI training does.
 
