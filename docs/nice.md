@@ -641,6 +641,11 @@ Won't you join us?
   Text: ->
     Not sure if you remember me. I was at SkilStaks when it was in Cornelius around when I was in middle school or something and just wanted to thank you for all your teaching as now I'm a Freshman at UNC Charlotte and I was able to use what I learned all the way back then with Python to actually be able to test out of one of my classes.
 
+- Name: Mehmet
+  Text: ->
+    Hey Rob, I wanted to thank you personally for all the content you've been putting out for a number of years, it actually helped me get a linux focused aws platform engineer role in London a couple of years back!
+
+
 ```
 
 
