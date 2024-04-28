@@ -101,7 +101,7 @@ Most of the careers listed above will require further learning skills that build
 
 How do we learn this in the Boost? By example. When we need to do a bit of research and learning we do it together using the best methods and tools available to any knowledge worker. The Linux terminal command line is objectively the fastest human-computer interface possible for knowledge work. As you master just-in-time learning (or learning at the speed of knowledge workers) then during and after the Boost you can take better control of your own learning plan tailored to your specific needs and goals.
 
-## 🎉 Please HAVE FUN!
+## Please HAVE FUN! 🎉
 
 * [Chat, stickers, clips are all very welcome and appreciated](https://youtu.be/chux1oAhiis)
 
