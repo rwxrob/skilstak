@@ -8,16 +8,18 @@ Since 2020, our community has come together every year to do a series of extreme
 
 ## Schedule
 
+* 📺 [Saturdays 11a-2pm | 2024 Beginner Boost schedule considerations](https://youtu.be/UMs7qF0B6KQ)
+
 As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
-1.  18-20: [job] Start a career in tech (3 weeks)
-2.  21-25: [web] Create basic web site with Markdown, HTML, CSS (4 weeks)
-3.  26-30: [linux] Get a Linux machine (4 weeks)
-4.  31-39: [bash] Learn the Bash Command Line (8 weeks)
-5.  40-52: [code] Learn to code in Python and JavaScript (12 weeks)
-6.  52-01: [c] Learn C for understanding (2 weeks, condensed[^1])
-7.  02-14: [go] Develop enterprise software in Go (12 weeks)
-8.  15-17: [lxc] Leverage Linux containers (docker, podman) (3 weeks)
+1.  18-20: [[JOB] Start a career in tech](job.md) (3 weeks)
+2.  21-25: [[WEB] Create basic web site with Markdown, HTML, CSS](web.md) (4 weeks)
+3.  26-30: [[LINUX] Get a Linux machine](linux.md) (4 weeks)
+4.  31-39: [[BASH] Learn the Bash Command Line](bash.md) (8 weeks)
+5.  40-52: [[CODE] Learn to code in Python and JavaScript](code.md) (12 weeks)
+6.  52-01: [[C] Learn C for understanding](c.md) (2 weeks, condensed[^1])
+7.  02-14: [[GO] Develop enterprise software in Go](go.md) (12 weeks)
+8.  15-17: [[LXC] Leverage Linux containers (docker, podman)](lxc.md) (3 weeks)
 
 [^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
 
