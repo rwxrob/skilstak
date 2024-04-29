@@ -1,7 +1,7 @@
 # Start a career in tech
 
 * [Commit to an autodidactic, tech lifestyle](https://youtu.be/yvGhmx4mtJI)
-    * Know why traditional education fails to meet the needs of most tech professionals
+    * Know why traditional education fails for most tech jobs
         * Know when a Computer Science degree can help (or hurt)
         * Know if you need to go do college or not
         * [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
