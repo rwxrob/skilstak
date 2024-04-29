@@ -3,19 +3,24 @@
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
 Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
+<<<<<<< HEAD
+
+* 📺 [Overview of the 2024 SKILSTAK Beginner Boost](https://youtu.be/JaQmGOBbuK0)
 
 ## Schedule
 
+* 📺 [Saturdays 11a-2pm | 2024 Beginner Boost schedule considerations](https://youtu.be/UMs7qF0B6KQ)
+
 As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
-1.  18-20: [job] Start a career in tech (3 weeks)
-2.  21-25: [web] Create basic web site with Markdown, HTML, CSS (4 weeks)
-3.  26-30: [linux] Get a Linux machine (4 weeks)
-4.  31-39: [bash] Learn the Bash Command Line (8 weeks)
-5.  40-52: [code] Learn to code in Python and JavaScript (12 weeks)
-6.  52-01: [c] Learn C for understanding (2 weeks, condensed[^1])
-7.  02-14: [go] Develop enterprise software in Go (12 weeks)
-8.  15-17: [lxc] Leverage Linux containers (docker, podman) (3 weeks)
+1.  18-20: [[JOB] Start a career in tech](job.md) (3 weeks)
+2.  21-25: [[WEB] Create basic web site with Markdown, HTML, CSS](web.md) (4 weeks)
+3.  26-30: [[LINUX] Get a Linux machine](linux.md) (4 weeks)
+4.  31-39: [[BASH] Learn the Bash Command Line](bash.md) (8 weeks)
+5.  40-52: [[CODE] Learn to code in Python and JavaScript](code.md) (12 weeks)
+6.  52-01: [[C] Learn C for understanding](c.md) (2 weeks, condensed[^1])
+7.  02-14: [[GO] Develop enterprise software in Go](go.md) (12 weeks)
+8.  15-17: [[LXC] Leverage Linux containers (docker, podman)](lxc.md) (3 weeks)
 
 [^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
 
@@ -98,6 +103,10 @@ One of the best (and some would say worst) things about Linux is that no one eve
 Most of the careers listed above will require further learning skills that build on your new Linux user skills. This is why during the Boost you not only learn the basics of the Linux terminal command line but are also encouraged to learn to organize and design your own autodidactic learning plans. This specific skill is more important than all the others---especially for those seeking careers as knowledge workers of any kind.
 
 How do we learn this in the Boost? By example. When we need to do a bit of research and learning we do it together using the best methods and tools available to any knowledge worker. The Linux terminal command line is objectively the fastest human-computer interface possible for knowledge work. As you master just-in-time learning (or learning at the speed of knowledge workers) then during and after the Boost you can take better control of your own learning plan tailored to your specific needs and goals.
+
+## Please HAVE FUN! 🎉
+
+* [Chat, stickers, clips are all very welcome and appreciated](https://youtu.be/chux1oAhiis)
 
 ## Legal usage
 
