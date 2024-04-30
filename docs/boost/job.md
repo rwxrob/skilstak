@@ -27,14 +27,17 @@
     1. Don't be a tech bigot
     1. Know what it means to have "strong opinions" that are "weakly held"
     1. Develop search-centric user interface habits
+        1. Learn the universal Alt-Tab technique (avoid hyper-specific alternatives)
+        1. Master the search field hotkey for your computer operating system
     1. Learn a web browser you should use for work
     1. Leverage AI assistants to your advantage
 
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
     1. Make yourself discoverable to other tech professionals and employers
-        1. Create a GitHub account with discoverable profile landing page
-        1. Create an online resume/cv on GitHub
+        1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
+            1. Create a GitHub special profile repo
+            1. Create an online resume/cv on GitHub *[[part of WEB]](../web)*
         1. Create a LinkedIn account, but understand its limitations and flaws
         1. Create a Mastodon account
         1. Create a Twitter account (ugh, yes, I know)
