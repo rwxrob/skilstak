@@ -14,9 +14,21 @@
             1. Avoid "leet code" training
             1. *NEVER* pay money for a "bootcamp"
     1. Learn to think like a hacker instead
+        1. Grok grok
+        1. Grok why "laziness, impatience, and hubris" are virtues
         1. Learn to take risks, fail faster
+        1. Avoid Anakin Syndrome, known you don't know
         1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
         1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
+
+1. First, be sure you have basic computer skills
+    1. Learn how to *really* type
+    1. Get a computer you can modify with admin access
+    1. Don't be a tech bigot
+    1. Know what it means to have "strong opinions" that are "weakly held"
+    1. Develop search-centric user interface habits
+    1. Learn a web browser you should use for work
+    1. Leverage AI assistants to your advantage
 
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
