@@ -15,7 +15,7 @@
         1. Be willing to meet whenever and wherever needed
     1. Think like a hacker
         1. Be lazy
-        1. Be impatience
+        1. Be impatient
         1. Have some hubris
         1. Take risks, fail faster
         1. Avoid Anakin Syndrome, know you don't know
@@ -23,7 +23,7 @@
         1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
     1. Know why traditional education fails for most tech jobs
         1. Know when a Computer Science degree can help (or hurt)
-        1. Know if you need to go do college or not
+        1. Know if you need to go to college or not
         1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
         1. Leverage as much free learning as possible
             1. Avoid "leet code" training
