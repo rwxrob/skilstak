@@ -9,9 +9,9 @@ Weekly video sessions are simultaneously live-streamed to Twitch, YouTube, Faceb
 
 ## What if I cannot make the live sessions?
 
-[Twitch](https://twitch.tv/rwxrob) is where the learning party is. We encourage you—above all—to join us live on Twitch for all the fun, learning, music, and hype. Who knows? You just might be gifted a free subscription by another kind community member, or win the Stream Avatars battle royal! What will *your* avatar be?
+[Twitch](https://twitch.tv/rwxrob) is where the learning party is. We encourage you—above all—to join us for any of the live Twitch sessions for all the fun, learning, music, and hype. Who knows? You just might be gifted a free subscription by another kind community member, or win the Stream Avatars battle royal! What will *your* avatar be?
 
-However, we understand not everyone can make the party, plus there are some serious party-poopers who might not even want to party.😬  So, within about 24 hours a tame, edited video from the live session is posted to YouTube without the *Beginning*, *Ending*, breaks, q&a, games, stories, music, silliness, and raiding. *Beginning*, *Ending* and breaks are also never streamed live to YouTube (mostly because music triggers stream suspension on YouTube).
+However, since 2024 you can do the entire Boost without ever even attending a live session because everything is recorded and available from YouTube videos. If you have questions you can always ask in Discord. This new recorded video approach is likely to be the new normal going forward, forever, since all we need to update are the videos with content that has changed year to year. Then, instead of redoing the same work every year, we add more content, and better, clearer content, revising every year as we go like a good code base.
 
 ## What is needed to participate?
 
