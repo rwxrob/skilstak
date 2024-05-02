@@ -33,3 +33,9 @@ Boosts are always free (although donations, subs, and tips are appreciated and m
 * 100 GB Free HD
 
 This computer will be a reliable place from which to participate and onto which you will install a minimal Linux virtual machine.
+
+## What if I already have a tech job?
+
+People regularly comment that they have filled some gap or another by going through the content along with the rest of us. Plus, having veterans available to confirm and add to what Rob has to say is *always* valuable. In other words, we *welcome* as many experienced professionals as possible.
+
+By all means, please flex! But please seek to understand what the person with the question wants to accomplish before pushing your personal preference (aka "I use Arch, by the way.") Also, disagreement is generally okay but Rob asks that you first at least present his position (in his forum) before directly contracting it. This helps beginners avoid initial confusion that (eventually) comes from the normal, expected disagreements and opinions that occur in tech. We don't want to scare beginners away with a bunch of fights over operating system preferences, Linux distros, editors, coding languages, note-taking systems, business models, politics, and—god forbid—tabs versus spaces.
