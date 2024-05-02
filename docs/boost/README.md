@@ -3,7 +3,6 @@
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
 Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
-<<<<<<< HEAD
 
 * 📺 [Overview of the 2024 SKILSTAK Beginner Boost](https://youtu.be/JaQmGOBbuK0)
 
