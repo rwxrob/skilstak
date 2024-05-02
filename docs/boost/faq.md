@@ -2,7 +2,7 @@
 
 ## Where can I watch and participate?
 
-Weekly video sessions are simultaneously livestreamed to Twitch, YouTube, Facebook, and Kick. Twitch is the primary platform and required for anyone who wants to play the games during the breaks. Chat from any of these platforms is visible but not necessarily relayed to the other platforms. In addition, Discord #live-chat channel contains all the chat from each session in a searchable format.
+Weekly video sessions are simultaneously live-streamed to Twitch, YouTube, Facebook, and Kick. Twitch is the primary platform and required for anyone who wants to play the games during the breaks. Chat from any of these platforms is visible but not necessarily relayed to the other platforms. In addition, Discord #live-chat channel contains all the chat from each session in a searchable format.
 
 !!! warning You are recorded
     Everything you write in the chat is saved forever with the livestream video session. It is up to you to remain professional and civil. If not, you'll be banned. It is also up to you to maintain your own level of privacy.
@@ -12,30 +12,6 @@ Weekly video sessions are simultaneously livestreamed to Twitch, YouTube, Facebo
 [Twitch](https://twitch.tv/rwxrob) is where the learning party is. We encourage you—above all—to join us live on Twitch for all the fun, learning, music, and hype. Who knows? You just might be gifted a free subscription by another kind community member, or win the Stream Avatars battle royal! What will *your* avatar be?
 
 However, we understand not everyone can make the party, plus there are some serious party-poopers who might not even want to party.😬  So, within about 24 hours a tame, edited video from the live session is posted to YouTube without the *Beginning*, *Ending*, breaks, q&a, games, stories, music, silliness, and raiding. *Beginning*, *Ending* and breaks are also never streamed live to YouTube (mostly because music triggers stream suspension on YouTube).
-
-## What is the session format and when are they?
-
-We do one video per week that is broken up into five parts with the core 40 minute blocks having a six-minute break between each:
-
-|Time    | Minutes | YouTube | Content |
-| :-:    | :-:     | :-:     | -       |
-| 11:40  | 20      | No      | Beginning
-| noon   | 40      | Yes     | First Block
-| 12:40  | 6       | No      | Break
-| 12:46  | 40      | Yes     | Second Block
-| 13:26  | 6       | No      | Break
-| 13:32  | 40      | Yes     | Third Block
-| 14:12  | 6       | No      | Break
-| 14:18  | 20      | No      | Ending
-| 14:38  | 2       | No      | Raid!
-
-The *Beginning* and *Ending* are for learning hype and answering questions about homework and such.
-
-
-!!! note Attention span
-    There's good science that shows the average attention span of a person between 12 and 20 is a maximum of 48 minutes (but as low as 20 minutes). Hence, the 40 minute blocks.
-
-The flow of the video content is just Rob doing stuff and talking about it along the way, occasionally taking live questions. Chat is never included in the videos but can be followed by those participating live. When following YouTube videos those learning can still ask questions in the Discord where the community can help and Rob can occasionally follow up.
 
 ## What is needed to participate?
 
