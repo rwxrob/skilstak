@@ -5,7 +5,22 @@
     1. [How to survive the collapse of late-stage capitalism](https://youtu.be/nF76zlqWjk4)
     1. [Know how to find all the "blacksmith" jobs, and why](https://youtu.be/TrFGCPqpPcU)
 
-1. [Commit to an autodidactic, tech lifestyle](https://youtu.be/yvGhmx4mtJI)
+1. [Commit to a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
+    1. Understand the perks of working in IT
+        1. [Maximum flexibility for remote work/life balance](https://youtu.be/j-RTnJ5jluY)
+    1. Accept the extra expectations
+        1. Grok grok
+        1. Keep your skills up to date on your own time (become an autodidact)
+        1. Insist on Fridays for learning and working on own projects
+        1. Be willing to meet whenever and wherever needed
+    1. Think like a hacker
+        1. Be lazy
+        1. Be impatience
+        1. Have some hubris
+        1. Take risks, fail faster
+        1. Avoid Anakin Syndrome, know you don't know
+        1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
+        1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
     1. Know why traditional education fails for most tech jobs
         1. Know when a Computer Science degree can help (or hurt)
         1. Know if you need to go do college or not
@@ -13,13 +28,7 @@
         1. Leverage as much free learning as possible
             1. Avoid "leet code" training
             1. *NEVER* pay money for a "bootcamp"
-    1. Learn to think like a hacker instead
-        1. Grok grok
-        1. Grok why "laziness, impatience, and hubris" are virtues
-        1. Learn to take risks, fail faster
-        1. Avoid Anakin Syndrome, known you don't know
-        1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
-        1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
+
 
 1. First, be sure you have basic computer skills
     1. Learn how to *really* type
