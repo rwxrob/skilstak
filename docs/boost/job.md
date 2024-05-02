@@ -26,7 +26,8 @@
         1. Know if you need to go to college or not
         1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
         1. Leverage as much free learning as possible
-            1. Avoid "leet code" training
+            1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
+            1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
             1. *NEVER* pay money for a "bootcamp"
 
 
