@@ -3,6 +3,7 @@
 1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
     1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
     1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
+    1. [You have to put in the time](https://youtu.be/AQCYo3EOjZc)
 
 1. [Become familiar with career opportunities in the tech industry](https://youtu.be/x4B02-qpaf8)
     1. [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
