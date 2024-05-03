@@ -24,6 +24,7 @@
         1. Take risks, fail faster
         1. Avoid Anakin Syndrome, know you don't know
         1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
+        1. [Who is TJ Holowaychuk?](https://youtu.be/8bukMVraTME)
         1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
     1. Know why traditional education fails for most tech jobs
         1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
