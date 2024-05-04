@@ -643,12 +643,6 @@ Won't you join us?
 
 - Name: Mehmet
   Text: ->
-    Hey Rob, I wanted to thank you personally for all the content you've been putting out for a number of years, it actually helped me get a linux focused aws platform engineer role in London a couple of years back!
-
-- Name: Rando
-  Text: ->
-     Something else. 
-
 
 ```
 
