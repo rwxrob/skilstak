@@ -1,36 +1,31 @@
 # Start a career in tech
 
-1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
+1. [Prepare yourself mentally](https://youtu.be/DhjQV34TDHA)
+    1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
+        1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
+        1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
+    1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
+    1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
 
-1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
-    1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
-    1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
-
-1. [Become familiar with career opportunities in the tech industry](https://youtu.be/x4B02-qpaf8)
-    1. [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
-    1. [How to survive the collapse of late-stage capitalism](https://youtu.be/nF76zlqWjk4)
-    1. [Know how to find all the "blacksmith" jobs, and why](https://youtu.be/TrFGCPqpPcU)
-
-1. [Commit to a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
-    1. Understand the perks of working in IT
+1. [Discover what you want to do and where](https://youtu.be/7bgS6KNVa64)
+    1. [Discover what tasks and activities you enjoy]
+    1. [Research which careers involve those activities]
+    1. [Discover what career opportunities exist in the tech industry](https://youtu.be/x4B02-qpaf8)
+    1. [Determine if you want a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
         1. [Maximum flexibility for remote work/life balance](https://youtu.be/j-RTnJ5jluY)
-    1. Accept the extra expectations
-        1. Grok grok
-        1. Keep your skills up to date on your own time (become an autodidact)
+        1. Keep skills up to date on your own time (become an autodidact)
         1. Insist on Fridays for learning and working on own projects
         1. Be willing to meet whenever and wherever needed
+    1. (extra) ["Ops? Apps? Which one should I focus on?"](https://youtu.be/5K4ug6rBZHk)
+    1. (extra) [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
+    1. (extra) [How to survive the collapse of late-stage capitalism](https://youtu.be/nF76zlqWjk4)
+    1. (extra) [Know how to find all the "blacksmith" jobs, and why](https://youtu.be/TrFGCPqpPcU)
+    1. (extra) [Know why freelance web developers fail](https://youtu.be/iS2T0b1nq8Y)
+    1. [Make a short list of employers hiring for specific job listings]
+    1. [Reach out to employers with matching job listings]
+    1. [Track your "skill stack"]
 
-1. Think like a hacker
-    1. Be lazy
-    1. Be impatient
-    1. Have some hubris, avoid imposter syndrome
-    1. Take risks, fail faster
-    1. Avoid Anakin Syndrome, know you don't know
-    1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
-    1. [Who is TJ Holowaychuk?](https://youtu.be/8bukMVraTME)
-    1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
-
-1. Know why traditional education fails for most tech jobs
+1. [Learn what is required for the specific career you have targeted]
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
     1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
@@ -38,14 +33,24 @@
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
         1. *NEVER* pay money for a "bootcamp"
+        1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
 
-1. First, be sure you have basic computer skills
+1. Think like a hacker
+    1. Be lazy
+    1. Be impatient
+    1. Have some hubris, avoid imposter syndrome
+    1. Take risks, fail faster
+    1. Avoid Anakin Syndrome, know you don't know
+    1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
+    1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
+
+1. Be sure you have basic computer skills
     1. Learn how to *really* type
     1. Get a computer you can modify with admin access
     1. Install and learn the best web browser for work
     1. Create a free ProtonMail account for personal use
     1. Create a free Google/YouTube/Gmail account for personal use
-    1. [Forward all Gmail to ProtonMail, including multiple Gmail addresses](https://youtu.be/8A_8g5oiokc)
+    1. [Forward multiple Gmail accounts to ProtonMail](https://youtu.be/8A_8g5oiokc)
     1. Don't become a tech bigot
     1. Know what it means to have "strong opinions" that are "weakly held"
     1. Develop search-centric user interface habits
@@ -55,6 +60,8 @@
 
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
+    1. [Understand the role of a mentor](https://youtu.be/egKt0EMhiR8)
+    1. Find a good recruiter
     1. Make yourself discoverable to other tech professionals and employers
         1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
             1. Create a GitHub special profile repo
@@ -67,9 +74,9 @@
         1. Document your projects and learning publicly
 
 1. Get the job
+    1. [Understand how employment happens](https://youtu.be/R1zNB9atsto)
     1. Leverage your professional learning network
     1. Publish a resume or CV (from structured YAML data)
-    1. Find a good recruiter
     1. Never cold-call or spam applications
     1. Beware of LinkedIn
     1. Shun companies that require "white board" interviews
