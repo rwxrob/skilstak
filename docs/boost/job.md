@@ -1,9 +1,10 @@
 # Start a career in tech
 
+1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
+
 1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
     1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
     1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
-    1. [You have to put in the time](https://youtu.be/AQCYo3EOjZc)
 
 1. [Become familiar with career opportunities in the tech industry](https://youtu.be/x4B02-qpaf8)
     1. [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
@@ -18,23 +19,25 @@
         1. Keep your skills up to date on your own time (become an autodidact)
         1. Insist on Fridays for learning and working on own projects
         1. Be willing to meet whenever and wherever needed
-    1. Think like a hacker
-        1. Be lazy
-        1. Be impatient
-        1. Have some hubris, avoid imposter syndrome
-        1. Take risks, fail faster
-        1. Avoid Anakin Syndrome, know you don't know
-        1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
-        1. [Who is TJ Holowaychuk?](https://youtu.be/8bukMVraTME)
-        1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
-    1. Know why traditional education fails for most tech jobs
-        1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
-        1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
-        1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
-        1. Leverage as much free learning as possible
-            1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
-            1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
-            1. *NEVER* pay money for a "bootcamp"
+
+1. Think like a hacker
+    1. Be lazy
+    1. Be impatient
+    1. Have some hubris, avoid imposter syndrome
+    1. Take risks, fail faster
+    1. Avoid Anakin Syndrome, know you don't know
+    1. [Aaron Swartz, The Internet's Own Boy](https://youtu.be/9vz06QO3UkQ)
+    1. [Who is TJ Holowaychuk?](https://youtu.be/8bukMVraTME)
+    1. [Importance of creativity in learning for any job (Sir Ken Robinson)](https://youtu.be/XSu38uFEVuI)
+
+1. Know why traditional education fails for most tech jobs
+    1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
+    1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
+    1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
+    1. Leverage as much free learning as possible
+        1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
+        1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
+        1. *NEVER* pay money for a "bootcamp"
 
 1. First, be sure you have basic computer skills
     1. Learn how to *really* type
