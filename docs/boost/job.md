@@ -8,8 +8,11 @@
     1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
 
 1. [Discover what you want to do and where](https://youtu.be/7bgS6KNVa64)
-    1. [Discover what tasks and activities you enjoy]
-    1. [Research which careers involve those activities]
+    1. [Discover what tasks and activities you enjoy](https://youtu.be/CFjH2rnAgWI)
+    1. [Research which careers involve those activities](https://youtu.be/IMEiz40CfMQ)
+    1. [Make a short list of employers hiring for specific job listings](https://youtu.be/bak14TNzZOE)
+    1. [Reach out to employers with matching job listings](https://youtu.be/fcCiH1YWYW4)
+    1. [Track your skill stack (origin story for skilstak.io)](https://youtu.be/prClPvCF1Cw)
     1. [Discover what career opportunities exist in the tech industry](https://youtu.be/x4B02-qpaf8)
     1. [Determine if you want a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
         1. [Maximum flexibility for remote work/life balance](https://youtu.be/j-RTnJ5jluY)
@@ -21,11 +24,9 @@
     1. (extra) [How to survive the collapse of late-stage capitalism](https://youtu.be/nF76zlqWjk4)
     1. (extra) [Know how to find all the "blacksmith" jobs, and why](https://youtu.be/TrFGCPqpPcU)
     1. (extra) [Know why freelance web developers fail](https://youtu.be/iS2T0b1nq8Y)
-    1. [Make a short list of employers hiring for specific job listings]
-    1. [Reach out to employers with matching job listings]
-    1. [Track your "skill stack"]
+    1. (extra) [Pay your way through college with tech skills](https://youtu.be/tkMyGgbWNkc)
 
-1. [Learn what is required for the specific career you have targeted]
+1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
     1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
@@ -34,6 +35,7 @@
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
         1. *NEVER* pay money for a "bootcamp"
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
+    1. Consider accredited online college degrees like WGU
 
 1. Think like a hacker
     1. Be lazy
