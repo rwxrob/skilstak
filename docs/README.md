@@ -6,7 +6,7 @@ You've reached the SKILSTAK knowledge base and home of the annual, rotating, cro
 
 !!! note "Pardon our plainness"
 
-    Perhaps you have noticed how boring our web site is. It isn't flashy by design. In fact, you overly flashy things are usually [pretty sus](https://youtu.be/DMZd535WTkY). Our priority is on searchable, mobile-friendly, dynamic content that supplements YouTube videos, live Twitch sessions, Discord channel discussions, and—most of all—your own notes and labs. Like tech, this stuff is always changing so please adjust your expectations to match. If you see something wrong, please let us know.
+    Perhaps you have noticed how boring our web site is. It isn't flashy by design. In fact, most overly flashy things are usually [pretty sus](https://youtu.be/DMZd535WTkY). Our priority is on searchable, mobile-friendly, dynamic content that supplements YouTube videos, live Twitch sessions, Discord channel discussions, and—most of all—your own notes and labs. Like tech, this stuff is always changing so please adjust your expectations to match. If you see something wrong, please let us know.
 
 !!! tip "Want to help write these docs?"
     Take note of the icons on each page that allow you to contribute content to the docs yourself.
