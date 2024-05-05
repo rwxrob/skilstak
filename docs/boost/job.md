@@ -25,6 +25,7 @@
     1. (extra) [Know how to find all the "blacksmith" jobs, and why](https://youtu.be/TrFGCPqpPcU)
     1. (extra) [Know why freelance web developers fail](https://youtu.be/iS2T0b1nq8Y)
     1. (extra) [Pay your way through college with tech skills](https://youtu.be/tkMyGgbWNkc)
+    1. (extra) ["Will cybersecurity be included in the Boost?"](https://youtu.be/htfy4I99guM)
 
 1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
