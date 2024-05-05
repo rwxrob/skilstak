@@ -38,14 +38,12 @@
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
     1. Consider accredited online college degrees like WGU
 
-1. Think like a hacker
-    1. Be lazy
-    1. Be impatient
-    1. Have some hubris, avoid imposter syndrome
-    1. Take risks, fail faster
-    1. Avoid Anakin Syndrome, know you don't know
+1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
     1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
     1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
+    1. Be lazy, be impatient, and have (some) hubris
+    1. Take risks, fail faster
+    1. Avoid Anakin Syndrome, know you don't know
 
 1. Be sure you have basic computer skills
     1. Learn how to *really* type
