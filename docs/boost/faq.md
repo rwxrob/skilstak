@@ -19,7 +19,7 @@ However, since 2024 you can do the entire Boost without ever even attending a li
 
 ## Why every year?
 
-We do the Boost every year mostly because technology is advancing at an exponential pace. There is something substantially new every single year. A key skill as a technologist is being able to distinguish the trends from the long-term changes and invest our previous learning time on what matters. Working in tech is not unlike betting on stocks, you pick the right tech to master at the right time and you can win big, or you can quickly become irrelevant and get "down sized." Therefore, having a Boost every year allows the community to contribute their observations about what is current and---most importantly---relevant.
+We do the Boost every year mostly because technology is advancing at an exponential pace. There is something substantially new every single year. A key skill as a technologist is being able to distinguish the trends from the long-term changes and invest our precious learning time on what matters. Working in tech is not unlike betting on stocks, you pick the right tech to master at the right time and you can win big, or you can quickly become irrelevant and get "down sized." Therefore, having a Boost every year allows the community to contribute their observations about what is current and---most importantly---relevant.
 
 !!! tip "The Surfer Analogy"
 
