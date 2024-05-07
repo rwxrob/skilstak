@@ -7,6 +7,7 @@ Since 2020, our community has come together every year to do a series of extreme
 * 📺 [Overview of the 2024 SKILSTAK Beginner Boost](https://youtu.be/JaQmGOBbuK0)
 * 📺 [Flipped classroom in 2024](https://youtu.be/h43tMxWeiMY)
 * 📺 [Welcome! 11:11:11 on May the Fourth](https://youtu.be/tXpscqjpqIM)
+* 📺 [Where are all the videos?](https://youtu.be/xa1yZBivH0E)
 
 ## Schedule
 

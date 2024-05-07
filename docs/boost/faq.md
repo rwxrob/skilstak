@@ -1,5 +1,9 @@
 # Beginner Boost FAQ
 
+## Where are all the videos?
+
+* 📺 <https://youtu.be/xa1yZBivH0E>
+
 ## Where can I watch and participate?
 
 Weekly video sessions are simultaneously live-streamed to Twitch, YouTube, Facebook, and Kick. Twitch is the primary platform and required for anyone who wants to play the games during the breaks. Chat from any of these platforms is visible but not necessarily relayed to the other platforms. In addition, Discord #live-chat channel contains all the chat from each session in a searchable format.
