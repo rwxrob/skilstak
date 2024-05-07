@@ -1,5 +1,7 @@
 # Start a career in tech
 
+📺 *The following outline contains links to specific YouTube videos of varying lengths and can be considered a linear playlist in outline format. Line items that are not linked are videos yet to be made. To be notified of updates [follow the repo](https://github.com/rwxrob/skilstak/subscription) (and drop us a star while you are at it).*
+
 1. [Prepare yourself mentally](https://youtu.be/DhjQV34TDHA)
     1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
         1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
