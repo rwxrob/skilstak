@@ -44,9 +44,10 @@
     1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
     1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
     1. [Be lazy, impatient, and have some hubris](https://youtu.be/NVtdB2rwxsc)
-        1. Stop calling yourself "junior"
+    1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
+    1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
+    1. Avoid Anakin Syndrome (Dunning-Kruger Effect)
     1. Take risks, fail faster
-    1. Avoid Anakin Syndrome, know you don't know
     1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. Be sure you have basic computer skills
