@@ -43,7 +43,7 @@
 1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
     1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
     1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
-    1. Be lazy, be impatient, and have (some) hubris
+    1. [Be lazy, impatient, and have some hubris](https://youtu.be/NVtdB2rwxsc)
         1. Stop calling yourself "junior"
     1. Take risks, fail faster
     1. Avoid Anakin Syndrome, know you don't know
