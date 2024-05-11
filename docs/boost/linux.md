@@ -6,4 +6,5 @@
 
 1. Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
+    1. <https://www.catb.org/~esr/faqs/hacker-howto.html>
     1. Take risks, fail faster
