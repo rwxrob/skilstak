@@ -46,7 +46,7 @@
     1. [Be lazy, impatient, and have some hubris](https://youtu.be/NVtdB2rwxsc)
     1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
     1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
-    1. Avoid Anakin Syndrome (Dunning-Kruger Effect)
+    1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
     1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. Be sure you have basic computer skills
@@ -82,6 +82,7 @@
 
 1. Get the job
     1. [Understand how employment happens](https://youtu.be/R1zNB9atsto)
+    1. [Know what your job is](https://youtu.be/bdXhxDbw6GM)
     1. Leverage your professional learning network
     1. Publish a resume or CV (from structured YAML data)
     1. Never cold-call or spam applications
