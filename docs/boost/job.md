@@ -44,6 +44,7 @@
     1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
     1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
     1. Be lazy, be impatient, and have (some) hubris
+        1. Stop calling yourself "junior"
     1. Take risks, fail faster
     1. Avoid Anakin Syndrome, know you don't know
 
@@ -63,7 +64,9 @@
 
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
-    1. [Understand the role of a mentor](https://youtu.be/egKt0EMhiR8)
+    1. Find a good mentor
+        1. [Understand the role of a mentor](https://youtu.be/egKt0EMhiR8)
+        1. (extra) Remembering Rob's mentors
     1. Find a good recruiter
     1. Make yourself discoverable to other tech professionals and employers
         1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
