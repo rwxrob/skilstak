@@ -47,6 +47,7 @@
         1. Stop calling yourself "junior"
     1. Take risks, fail faster
     1. Avoid Anakin Syndrome, know you don't know
+    1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. Be sure you have basic computer skills
     1. Learn how to *really* type
