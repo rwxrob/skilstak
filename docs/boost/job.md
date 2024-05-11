@@ -47,7 +47,6 @@
     1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
     1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
     1. Avoid Anakin Syndrome (Dunning-Kruger Effect)
-    1. Take risks, fail faster
     1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. Be sure you have basic computer skills

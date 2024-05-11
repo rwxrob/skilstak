@@ -3,3 +3,7 @@
 *Content will be added as it becomes available.*
 
 1. [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
+
+1. Know the Unix philosophy
+    1. <https://www.catb.org/~esr/writings/taoup/html/>
+    1. Take risks, fail faster
