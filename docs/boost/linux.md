@@ -2,9 +2,11 @@
 
 *Content will be added as it becomes available.*
 
-1. [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
+* [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
 
-1. Know the Unix philosophy
+* [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
+
+* Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
     1. <https://www.catb.org/~esr/faqs/hacker-howto.html>
     1. Take risks, fail faster
