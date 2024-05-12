@@ -1,11 +1,12 @@
 title: SKILSTAK Beginner Boost
 nav:
   - README.md
-  - faq.md
-  - job.md
+  - start.md
   - web.md
   - linux.md
-  - bash.md
+  - terminal.md
   - code.md
+  - c.md
   - go.md
   - lxc.md
+  - faq.md

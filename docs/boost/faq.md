@@ -1,4 +1,4 @@
-# Beginner Boost FAQ
+# FAQ
 
 ## Where are all the videos?
 

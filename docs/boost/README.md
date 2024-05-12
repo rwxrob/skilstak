@@ -1,4 +1,4 @@
-# Overview of Beginner Boost!
+# Beginner Boost overview
 
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
@@ -16,14 +16,16 @@ Since 2020, our community has come together every year to do a series of extreme
 
 As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
 
-1.  18-20: [[JOB] Start a career in tech](job.md) (3 weeks)
-2.  21-25: [[WEB] Create basic web site with Markdown, HTML, CSS](web.md) (4 weeks)
-3.  26-30: [[LINUX] Get a Linux machine](linux.md) (4 weeks)
-4.  31-39: [[BASH] Learn the Bash Command Line](bash.md) (8 weeks)
-5.  40-52: [[CODE] Learn to code in Python and JavaScript](code.md) (12 weeks)
-6.  52-01: [[C] Learn C for understanding](c.md) (2 weeks, condensed[^1])
-7.  02-14: [[GO] Develop enterprise software in Go](go.md) (12 weeks)
-8.  15-17: [[LXC] Leverage Linux containers (docker, podman)](lxc.md) (3 weeks)
+Stage | Weeks | Length | Title
+-|-|-|-
+IGNITION | 18-20 | 3     | [Ignite your tech career](job.md)
+WEB      | 21-25 | 4     | [Create a basic web site](web.md)
+LINUX    | 26-30 | 4     | [Get a Linux machine](linux.md)
+TERMINAL | 31-39 | 8     | [Learn the terminal](term.md)
+CODE     | 40-52 | 12    | [Learn to code in Python, JavaScript, and Go](code.md)
+C        | 52-01 | 2[^1] | [Learn C for understanding](c.md)
+GO       | 02-14 | 12    | [Develop enterprise software in Go](go.md)
+LXC      | 15-17 | 3     | [Leverage Linux containers](lxc.md)
 
 [^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
 

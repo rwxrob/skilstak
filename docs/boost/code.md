@@ -1,4 +1,6 @@
-# Learn to code in Python and JavaScript
+# CODE — 40-52 (12)
+
+Learn to code in Python, JavaScript, and Go.
 
 *Content will be added as it becomes available.*
 

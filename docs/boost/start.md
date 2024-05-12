@@ -1,4 +1,6 @@
-# Start a career in tech
+# IGNITION — 18-20 (3)
+
+Pre-stage ignition is like firing up your booster rockets while still on the ground. We have to make sure your gear and navigation are set correctly before taking off. You will prepare yourself mentally, decide if you want to live the tech lifestyle, discover what specific tech job you want, understand what you need to learn and do to prove you can do the job, and take important steps immediately to begin building relationships of trust with potential peers and employers.
 
 📺 *The following outline contains links to specific YouTube videos of varying lengths and can be considered a linear playlist in outline format. Line items that are not linked are videos yet to be made. To be notified of updates [follow the repo](https://github.com/rwxrob/skilstak/subscription) (and drop us a star while you are at it).*
 
@@ -8,13 +10,20 @@
         1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
     1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
     1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
+    1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
+        1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
+        1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
+        1. [Be lazy, impatient, and have some hubris](https://youtu.be/NVtdB2rwxsc)
+        1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
+        1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
+        1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
 
 1. [Discover what you want to do and where](https://youtu.be/7bgS6KNVa64)
     1. [Discover what tasks and activities you enjoy](https://youtu.be/CFjH2rnAgWI)
     1. [Research which careers involve those activities](https://youtu.be/IMEiz40CfMQ)
     1. [Make a short list of employers hiring for specific job listings](https://youtu.be/bak14TNzZOE)
     1. [Reach out to employers with matching job listings](https://youtu.be/fcCiH1YWYW4)
-    1. [Track your skill stack (origin story for skilstak.io)](https://youtu.be/prClPvCF1Cw)
+    1. [Track your skill stack (SKILSTAK Coding Arts)](https://youtu.be/prClPvCF1Cw)
     1. [Discover what career opportunities exist in the tech industry](https://youtu.be/x4B02-qpaf8)
     1. [Determine if you want a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
         1. [Maximum flexibility for remote work/life balance](https://youtu.be/j-RTnJ5jluY)
@@ -28,6 +37,7 @@
     1. (extra) [Know why freelance web developers fail](https://youtu.be/iS2T0b1nq8Y)
     1. (extra) [Pay your way through college with tech skills](https://youtu.be/tkMyGgbWNkc)
     1. (extra) ["Will cybersecurity be included in the Boost?"](https://youtu.be/htfy4I99guM)
+    1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
@@ -39,15 +49,6 @@
         1. *NEVER* pay money for a "bootcamp"
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
     1. Consider accredited online college degrees like WGU
-
-1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
-    1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
-    1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)
-    1. [Be lazy, impatient, and have some hubris](https://youtu.be/NVtdB2rwxsc)
-    1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
-    1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
-    1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
-    1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
 
 1. Be sure you have basic computer skills
     1. Learn how to *really* type
