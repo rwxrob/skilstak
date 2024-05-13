@@ -2,6 +2,9 @@
 
 *Content will be added as it becomes available.*
 
+* Write secure, robust software
+    * [Keep deps near code with go mod vendor](https://youtu.be/oLr8GYsOBsQ)
+
 * Understand how to work with Go private modules
     * [Use go mod vendor to save yourself from dependency hell](https://youtu.be/nInBqtpA0-A)
     * [Overcoming common errors when building from Go private modules](https://youtu.be/mRvIMZUiZFc)
