@@ -2,6 +2,7 @@
 
 *Content will be added as it becomes available.*
 
+* [VMware Workstation/Fusion Pro is free](https://youtu.be/PvEYSBCaOzY)
 * [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
 
 * [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
