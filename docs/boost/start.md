@@ -17,6 +17,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
         1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
         1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
+    1. Find focus
 
 1. [Discover what you want to do and where](https://youtu.be/7bgS6KNVa64)
     1. [Discover what tasks and activities you enjoy](https://youtu.be/CFjH2rnAgWI)
