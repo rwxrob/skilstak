@@ -1,1 +1,0 @@
-# Editing files with neovim

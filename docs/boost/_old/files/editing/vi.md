@@ -1,2 +1,0 @@
-# Editing files with vi
-
