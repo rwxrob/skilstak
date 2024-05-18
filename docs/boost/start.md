@@ -18,9 +18,10 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
         1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
         1. [Don't become a tech bigot](https://youtu.be/ZiDl3hts-UE)
-        1. Know what it means to have "strong opinions" that are "weakly held"
+        1. [Know what it means to have "strong opinions" that are "weakly held"](https://youtu.be/mSAJGC4Rm0E)
     1. [Find focus](https://youtu.be/XEnlJfzYCcc)
         1. [Use a timer](https://youtu.be/_m1xN8kqsBQ)
+        1. [Talk to the duck](https://youtu.be/9qC7zW0WnyA)
 
 1. Be sure you have basic computer skills
     1. Learn how to *really* type
