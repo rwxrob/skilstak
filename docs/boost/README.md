@@ -18,11 +18,11 @@ As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Sinc
 
 Stage | Weeks | Length | Title
 -|-|-|-
-IGNITION | 18-20 | 3     | [Ignite your tech career](start.md)
+IGNITION | 18-20 | 3     | [Start your tech career](start.md)
 WEB      | 21-25 | 4     | [Create a basic web site](web.md)
 LINUX    | 26-30 | 4     | [Get a Linux machine](linux.md)
 TERMINAL | 31-39 | 8     | [Learn the terminal](term.md)
-CODE     | 40-52 | 12    | [Learn to code in Python, JavaScript, and Go](code.md)
+CODE     | 40-52 | 12    | [Learn to code](code.md)
 C        | 52-01 | 2[^1] | [Learn C for understanding](c.md)
 GO       | 02-14 | 12    | [Develop enterprise software in Go](go.md)
 LXC      | 15-17 | 3     | [Leverage Linux containers](lxc.md)

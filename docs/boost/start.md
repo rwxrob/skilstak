@@ -1,4 +1,4 @@
-# START
+# Start your tech career
 
 Pre-stage ignition is like firing up your booster rockets while still on the ground. We have to make sure your gear and navigation are set correctly before taking off. You will prepare yourself mentally, decide if you want to live the tech lifestyle, discover what specific tech job you want, understand what you need to learn and do to prove you can do the job, and take important steps immediately to begin building relationships of trust with potential peers and employers.
 

@@ -1,6 +1,6 @@
-# CODE
+# Learn to code
 
-Learn to code in Python, JavaScript, and Go.
+We will learn Python, JavaScript, and Go at the same time.
 
 *Content will be added as it becomes available.*
 
