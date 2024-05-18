@@ -51,6 +51,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. *NEVER* pay money for a "bootcamp"
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
     1. Consider accredited online college degrees like WGU
+    1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
 
 1. Be sure you have basic computer skills
     1. Learn how to *really* type
