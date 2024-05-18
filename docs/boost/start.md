@@ -27,8 +27,8 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Learn how to *really* type
     1. Get a computer you can modify with admin access
     1. Install and learn the best web browser for work
-    1. Create a free ProtonMail account for personal use
-    1. Create a free Google/YouTube/Gmail account for personal use
+    1. [Create a free ProtonMail account for personal use](https://youtu.be/MSH_gJtqBSg)
+    1. [Create a free Google/YouTube/Gmail account for personal use](https://youtu.be/yAe4ZJvqeC4)
     1. [Forward multiple Gmail accounts to ProtonMail](https://youtu.be/8A_8g5oiokc)
     1. [Document your learning](https://youtu.be/jD_MAEKMOQo)
         1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
