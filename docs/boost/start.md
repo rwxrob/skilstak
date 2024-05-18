@@ -23,7 +23,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Use a timer](https://youtu.be/_m1xN8kqsBQ)
         1. [Talk to the duck](https://youtu.be/9qC7zW0WnyA)
 
-1. Be sure you have basic computer skills
+1. [Be sure you have basic computer skills](https://youtu.be/ZeKEUgHW3dE) 
     1. Learn how to *really* type
     1. Get a computer you can modify with admin access
     1. Install and learn the best web browser for work
