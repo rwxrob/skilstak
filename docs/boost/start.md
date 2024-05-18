@@ -17,8 +17,26 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Stop labeling/calling yourself "junior"](https://youtu.be/RQWahCDtoTU)
         1. [Fight back Imposter Syndrome](https://youtu.be/NqTb3rwO08Q)
         1. [Avoid Anakin Syndrome (Dunning-Kruger Effect)](https://youtu.be/HM7oFAGB4Ws)
+        1. Don't become a tech bigot
+        1. Know what it means to have "strong opinions" that are "weakly held"
     1. [Find focus](https://youtu.be/XEnlJfzYCcc)
         1. [Use a timer](https://youtu.be/_m1xN8kqsBQ)
+
+1. Be sure you have basic computer skills
+    1. Learn how to *really* type
+    1. Get a computer you can modify with admin access
+    1. Install and learn the best web browser for work
+    1. Create a free ProtonMail account for personal use
+    1. Create a free Google/YouTube/Gmail account for personal use
+    1. [Forward multiple Gmail accounts to ProtonMail](https://youtu.be/8A_8g5oiokc)
+    1. [Document your learning](https://youtu.be/jD_MAEKMOQo)
+        1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
+        1. [Create a CodeBook lab repo](https://youtu.be/UTmQLddjPTU)
+    1. Develop search-centric user interface habits
+        1. Learn the universal Alt-Tab technique (avoid hyper-specific alternatives)
+        1. Master the search field hotkey for your computer operating system
+    1. Learn how to scan books and content quickly
+    1. Leverage AI assistants to your advantage
 
 1. [Discover what you want to do and where](https://youtu.be/7bgS6KNVa64)
     1. [Discover what tasks and activities you enjoy](https://youtu.be/CFjH2rnAgWI)
@@ -53,20 +71,6 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Consider accredited online college degrees like WGU
     1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
 
-1. Be sure you have basic computer skills
-    1. Learn how to *really* type
-    1. Get a computer you can modify with admin access
-    1. Install and learn the best web browser for work
-    1. Create a free ProtonMail account for personal use
-    1. Create a free Google/YouTube/Gmail account for personal use
-    1. [Forward multiple Gmail accounts to ProtonMail](https://youtu.be/8A_8g5oiokc)
-    1. Don't become a tech bigot
-    1. Know what it means to have "strong opinions" that are "weakly held"
-    1. Develop search-centric user interface habits
-        1. Learn the universal Alt-Tab technique (avoid hyper-specific alternatives)
-        1. Master the search field hotkey for your computer operating system
-    1. Leverage AI assistants to your advantage
-
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
     1. Find a good mentor
@@ -74,13 +78,12 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. (extra) Remembering Rob's mentors
     1. Find a good recruiter
     1. Make yourself discoverable to other tech professionals and employers
-        1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
-            1. Document your projects and learning publicly
         1. Create a GitHub special profile repo
         1. Create a Twitch account
         1. Create a LinkedIn account, but understand its limitations and flaws
         1. Create a Mastodon account
         1. Create a Twitter account (ugh, yes, I know)
+    1. Document your projects and learning publicly
 
 1. Get the job
     1. [Understand how employment happens](https://youtu.be/R1zNB9atsto)
