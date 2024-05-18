@@ -1,3 +1,3 @@
-# TERMINAL — 31-39 (8)
+# TERMINAL
 
 *Content will be added as it becomes available.*

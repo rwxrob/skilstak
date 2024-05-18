@@ -1,4 +1,4 @@
-# LINUX — 26-30 (4)
+# LINUX
 
 *Content will be added as it becomes available.*
 

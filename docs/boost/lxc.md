@@ -1,3 +1,3 @@
-# LXC — 15-17 (3)
+# LXC
 
 *Content will be added as it becomes available.*

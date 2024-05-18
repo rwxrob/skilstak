@@ -1,4 +1,4 @@
-# Go — 02-14 (12)
+# Go
 
 *Content will be added as it becomes available.*
 

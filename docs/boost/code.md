@@ -1,4 +1,4 @@
-# CODE — 40-52 (12)
+# CODE
 
 Learn to code in Python, JavaScript, and Go.
 
