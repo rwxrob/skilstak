@@ -29,8 +29,8 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Discover what career opportunities exist in the tech industry](https://youtu.be/x4B02-qpaf8)
     1. [Determine if you want a tech lifestyle](https://youtu.be/yvGhmx4mtJI)
         1. [Maximum flexibility for remote work/life balance](https://youtu.be/j-RTnJ5jluY)
-        1. Keep skills up to date on your own time (become an autodidact)
-        1. Insist on Fridays for learning and working on own projects
+        1. [Become an autodidact](https://youtu.be/3Q7gaC77xzc)
+        1. Learn on your own time (and insist on Fridays)
         1. Be willing to meet whenever and wherever needed
     1. (extra) ["Ops? Apps? Which one should I focus on?"](https://youtu.be/5K4ug6rBZHk)
     1. (extra) [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
