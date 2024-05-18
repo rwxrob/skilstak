@@ -44,7 +44,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
 1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
-    1. [Known if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
+    1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
     1. Leverage as much free learning as possible
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
@@ -75,20 +75,20 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Find a good recruiter
     1. Make yourself discoverable to other tech professionals and employers
         1. [Create a GitHub account and private notes repo](https://youtu.be/0RnvLIDboNQ)
-            1. Create a GitHub special profile repo
-            1. Create an online resume/cv on GitHub *[[part of WEB]](../web)*
-            1. Create optional additional GitHub accounts for testing
+            1. Document your projects and learning publicly
+        1. Create a GitHub special profile repo
         1. Create a Twitch account
         1. Create a LinkedIn account, but understand its limitations and flaws
         1. Create a Mastodon account
         1. Create a Twitter account (ugh, yes, I know)
-        1. Document your projects and learning publicly
 
 1. Get the job
     1. [Understand how employment happens](https://youtu.be/R1zNB9atsto)
     1. [Know what your job is](https://youtu.be/bdXhxDbw6GM)
     1. Leverage your professional learning network
-    1. Publish a resume or CV (from structured YAML data)
+    1. Publish a resume or CV
+        1. Maintain career experience data in YAML
+        1. [Include currently learning and projects](https://youtu.be/JuZztAYpoSo)
     1. Never cold-call or spam applications
     1. Beware of LinkedIn
     1. Shun companies that require "white board" interviews
