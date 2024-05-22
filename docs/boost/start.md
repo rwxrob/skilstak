@@ -51,6 +51,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Become an autodidact](https://youtu.be/3Q7gaC77xzc)
         1. [Learn on your own time (and insist on Fridays)](https://youtu.be/Z5y4gDdNoUg)
         1. Be willing to meet whenever and wherever needed
+        1. (extra) [Understand why coworking can be too distracting](https://youtu.be/CskGjBQ0s-s)
     1. (extra) ["Ops? Apps? Which one should I focus on?"](https://youtu.be/5K4ug6rBZHk)
     1. (extra) [Know which job you want and why?](https://youtu.be/d2EwuxQHV6Y)
     1. (extra) [How to survive the collapse of late-stage capitalism](https://youtu.be/nF76zlqWjk4)
