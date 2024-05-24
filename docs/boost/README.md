@@ -9,6 +9,7 @@ Since 2020, our community has come together every year to do a series of extreme
 * 📺 [Welcome! 11:11:11 on May the Fourth](https://youtu.be/tXpscqjpqIM)
 * 📺 [Where are all the videos?](https://youtu.be/xa1yZBivH0E)
 * 📺 [Join us for daily CoffeeBoost?](https://youtu.be/6FHkhjmQ0Ko)
+* 📺 [Request to play YouTube videos/music](https://youtu.be/CITmKZIy2CA)
 
 ## Schedule
 
