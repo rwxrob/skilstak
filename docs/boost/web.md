@@ -9,7 +9,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. [Explain the different uses of the Web](https://youtu.be/ewEckjH3oT0)
     1. (extra) [The "Web" is not the "Internet"](https://youtu.be/Zz7-YBW4RpY)
 1. [Learn Markdown](https://youtu.be/qR5cBFXuVJ8)
-    1. Understand the history and purpose of Markdown
+    1. [Understand the history and purpose of Markdown](https://youtu.be/NVCmzg6XFgQ)
     1. Learn simplified CommonMark
     1. Learn GitHub Flavored Markdown (GFM)
     1. Know what LaTeX and MathJax are and when to use them
