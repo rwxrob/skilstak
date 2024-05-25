@@ -4,9 +4,6 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 
 *Content will be added as it becomes available.*
 
-- some thing
-- other thing
-
 1. [Understand why learning basic web development matters](https://youtu.be/BAyzGgA89M8)
 1. [Know a bit of history about how the Web came to be](https://youtu.be/j8oZbDVyOsY)
 1. [Explain the different uses of the Web](https://youtu.be/ewEckjH3oT0)
@@ -33,4 +30,4 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. Learn to structure data
     1. Learn to structure data into JSON
     1. Learn to structure data into YAML
-1. Create an online resume/cv on GitHub
+1. PROJECT: Create an online resume/cv on GitHub
