@@ -5,7 +5,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 *Content will be added as it becomes available.*
 
 1. [Understand why learning basic web development matters](https://youtu.be/BAyzGgA89M8)
-1. [Know a bit of history about how the Web came to be](https://youtu.be/BAyzGgA89M8)
+1. [Know a bit of history about how the Web came to be](https://youtu.be/j8oZbDVyOsY)
 1. Explain the different uses of the Web
 1. Look up documentation about Web development when needed
 1. Learn basic, conventional GitHub Flavored Markdown
