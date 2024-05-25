@@ -16,7 +16,8 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Learn standard Markdown headings](https://youtu.be/tsI_o1JQLUY)
     1. [Learn standard Markdown blocks](https://youtu.be/FhlhwH0MnhY)
     1. [Learn standard Markdown inline formatting](https://youtu.be/1oKmW7xgzVE)
-    1. Learn standard Markdown linking and images
+    1. [Learn standard Markdown linking](https://youtu.be/1oKmW7xgzVE)
+    1. Learn standard Markdown images
     1. Learn LaTeX/KaTeX/MathJax are and when to use
     1. (extra) Why CommonMark?
     1. (extra) How is GitHub Flavored Markdown (GFM) different?
