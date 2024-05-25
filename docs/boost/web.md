@@ -18,13 +18,14 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Learn Markdown inline formatting](https://youtu.be/1oKmW7xgzVE)
     1. [Learn Markdown linking](https://youtu.be/1oKmW7xgzVE)
     1. [Learn Markdown images](https://youtu.be/-QtiAZ-jLmw)
-    1. Learn LaTeX/KaTeX/MathJax are and when to use
+    1. [Learn LaTeX/KaTeX/MathJax are and when to use](https://youtu.be/RvClkA0x3lY)
     1. (extra) Why CommonMark?
     1. (extra) How is GitHub Flavored Markdown (GFM) different?
     1. (extra) How is Pandoc Flavored Markdown (PFM) different?
     1. (extra) What does "semantic" mean and why do I care?
     1. (extra) Should I wrap my paragraph blocks or not?
     1. (extra) What about asciidoc?
+    1. (extra) What about Obsidian?
 1. Learn essential HTML elements that correspond to Markdown
     1. Look up documentation about Web development when needed
     1. (extra) What is XML and XHTML?
