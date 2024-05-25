@@ -10,11 +10,13 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. (extra) [The "Web" is not the "Internet"](https://youtu.be/Zz7-YBW4RpY)
 1. [Learn Markdown](https://youtu.be/qR5cBFXuVJ8)
     1. [Understand the history and purpose of Markdown](https://youtu.be/NVCmzg6XFgQ)
-    1. Learn simplified CommonMark
+    1. [Learn CommonMark Markdown headings](https://youtu.be/tsI_o1JQLUY)
     1. Learn GitHub Flavored Markdown (GFM)
     1. Know what LaTeX and MathJax are and when to use them
+    1. (extra) What is semantic and why do I care?
 1. Learn essential HTML elements that correspond to Markdown
     1. Look up documentation about Web development when needed
+    1. (extra) What is XML and XHTML?
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
     1. Learn to structure data into JSON
