@@ -20,7 +20,7 @@ As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Sinc
 
 Stage | Weeks | Length | Title
 -|-|-|-
-IGNITION | 18-20 | 3     | [Start your tech career](start.md)
+START    | 18-20 | 3     | [Start your tech career](start.md)
 WEB      | 21-25 | 4     | [Create a basic web site](web.md)
 LINUX    | 26-30 | 4     | [Get a Linux machine](linux.md)
 TERMINAL | 31-39 | 8     | [Learn the terminal](term.md)
