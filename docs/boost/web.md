@@ -13,11 +13,11 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. (extra) [The "Web" is not the "Internet"](https://youtu.be/Zz7-YBW4RpY)
 1. [Learn Markdown](https://youtu.be/qR5cBFXuVJ8)
     1. [Understand the history and purpose of Markdown](https://youtu.be/NVCmzg6XFgQ)
-    1. [Learn standard Markdown headings](https://youtu.be/tsI_o1JQLUY)
-    1. [Learn standard Markdown blocks](https://youtu.be/FhlhwH0MnhY)
-    1. [Learn standard Markdown inline formatting](https://youtu.be/1oKmW7xgzVE)
-    1. [Learn standard Markdown linking](https://youtu.be/1oKmW7xgzVE)
-    1. Learn standard Markdown images
+    1. [Learn Markdown headings](https://youtu.be/tsI_o1JQLUY)
+    1. [Learn Markdown blocks](https://youtu.be/FhlhwH0MnhY)
+    1. [Learn Markdown inline formatting](https://youtu.be/1oKmW7xgzVE)
+    1. [Learn Markdown linking](https://youtu.be/1oKmW7xgzVE)
+    1. [Learn Markdown images](https://youtu.be/-QtiAZ-jLmw)
     1. Learn LaTeX/KaTeX/MathJax are and when to use
     1. (extra) Why CommonMark?
     1. (extra) How is GitHub Flavored Markdown (GFM) different?
