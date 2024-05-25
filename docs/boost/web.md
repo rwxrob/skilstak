@@ -8,9 +8,13 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. [Know a bit of history about how the Web came to be](https://youtu.be/j8oZbDVyOsY)
 1. [Explain the different uses of the Web](https://youtu.be/ewEckjH3oT0)
     1. (extra) [The "Web" is not the "Internet"](https://youtu.be/Zz7-YBW4RpY)
-1. Look up documentation about Web development when needed
-1. Learn basic, conventional GitHub Flavored Markdown
+1. [Learn Markdown](https://youtu.be/qR5cBFXuVJ8)
+    1. Understand the history and purpose of Markdown
+    1. Learn simplified CommonMark
+    1. Learn GitHub Flavored Markdown (GFM)
+    1. Know what LaTeX and MathJax are and when to use them
 1. Learn essential HTML elements that correspond to Markdown
+    1. Look up documentation about Web development when needed
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
     1. Learn to structure data into JSON
