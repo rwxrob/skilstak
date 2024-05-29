@@ -12,7 +12,14 @@ Since 2020, our community has come together every year to do a series of extreme
 
 * 📺 [Latest weekly schedule](https://youtu.be/6hlnCjXsGlA)
 
-As masters and padawans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
+We begin the first week of May known historically for many significant (and some less significant but memorable) reasons:
+
+* May 1st, International Workers' Day / Labor Day
+* May 4th, "May the fourth be with you"
+* May 5th, Cinco de Mayo
+* May 9th, Mr. Robot Day (okay, technically not first week of May, but still)
+
+Since 2024 we follow an annual content rotation:
 
 Stage | Weeks | Length | Title
 -|-|-|-
