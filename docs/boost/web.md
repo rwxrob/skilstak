@@ -27,7 +27,11 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
 1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
-    1. Look up documentation about Web development when needed
+    1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
+    1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
+    1. Code HTML document scaffolding tags: doctype, html, head, body
+    1. Code HTML document organization tags: header, footer
+    1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
     1. (extra) What is XML and XHTML?
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
