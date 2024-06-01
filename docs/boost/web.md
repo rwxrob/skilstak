@@ -40,6 +40,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
     1. (extra) [Is HTML5 related to SGML?](https://youtu.be/n3OtVsCwM8k)
     1. (extra) What is XML and XHTML?
+    1. (extra) [FreeCodeCamp failed to help them learn anything](https://youtu.be/Lf0t0cgErLQ)
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
     1. Learn to structure data into JSON
