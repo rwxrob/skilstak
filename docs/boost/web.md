@@ -29,9 +29,16 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
     1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
     1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
-    1. [Code HTML main containing tags: doctype, html, head, body](https://youtu.be/VkqebYemSnk)
-    1. Code HTML document organization tags: header, footer
+    1. [Understand basic HTML syntax](https://youtu.be/h4c5DzDNonM)
+    1. [Code main HTML document elements: doctype, html, head, body](https://youtu.be/eEm_GS6uoos)
+    1. [Code HTML metadata elements: meta, title, base](https://youtu.be/8BGAz9Z5I2s)
+    1. Code HTML document section elements:
+    1. Code HTML grouping elements:
+    1. Code HTML text-level semantic elements:
+    1. Code HTML embedded content elements:
+    1. Code HTML embedded table elements:
     1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
+    1. (extra) [Is HTML5 related to SGML?](https://youtu.be/n3OtVsCwM8k)
     1. (extra) What is XML and XHTML?
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
