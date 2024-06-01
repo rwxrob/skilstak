@@ -29,7 +29,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
     1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
     1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
-    1. Code HTML document scaffolding tags: doctype, html, head, body
+    1. [Code HTML main containing tags: doctype, html, head, body](https://youtu.be/VkqebYemSnk)
     1. Code HTML document organization tags: header, footer
     1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
     1. (extra) What is XML and XHTML?
