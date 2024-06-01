@@ -26,7 +26,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
 1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
-1. Learn essential HTML elements that correspond to Markdown
+1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
     1. Look up documentation about Web development when needed
     1. (extra) What is XML and XHTML?
 1. Learn just enough CSS to style a basic web site
