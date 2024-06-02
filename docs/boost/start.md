@@ -69,11 +69,17 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Leverage as much free learning as possible
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
-        1. *NEVER* pay money for a "bootcamp"
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
-        1. [Understand why "educational" fails versus real experience](https://youtu.be/Lf0t0cgErLQ)
+        1. [Gamify your own project-based learning](https://youtu.be/X0VeUoUI34s)
+        1. (extra) ["For education" (like FreeCodeCamp) fails](https://youtu.be/Lf0t0cgErLQ)
+        1. (extra) [Beware of "bootcamps"](https://youtu.be/Zgu9brxg7Ew)
+        1. (extra) [What about CodeAcademy?](https://youtu.be/XxIqp_EbDnE)
+        1. (extra) [What about HackTheBox?](https://youtu.be/9GXoXgUTOcA)
     1. Consider accredited online college degrees like WGU
     1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
+
+1. Install and configure Microsoft Visual Studio Code
+    1. (extra) What about VS Codium?
 
 1. Build a professional learning network in person and on social media
     1. [Learn from those with actual experience and passion](https://youtu.be/DMZd535WTkY)
