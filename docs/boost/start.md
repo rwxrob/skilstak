@@ -61,6 +61,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. (extra) ["Will cybersecurity be included in the Boost?"](https://youtu.be/htfy4I99guM)
     1. (extra) ["What job would resemble that of Elliot in Mr. Robot?"](https://youtu.be/ZDiYnf4nVU8)
     1. (extra) ["Will AI take my job?"](https://youtu.be/OERihoSKFqk)
+    1. (extra) ["What is MLOps and should I learn it?"](https://youtu.be/XxIqp_EbDnE)
 
 1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
