@@ -72,6 +72,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
         1. [Gamify your own project-based learning](https://youtu.be/X0VeUoUI34s)
+        1. (extra) ["Should I pay for tech books?"](https://youtu.be/ZypemgMnYvA)
         1. (extra) ["For education" (like FreeCodeCamp) fails](https://youtu.be/Lf0t0cgErLQ)
         1. (extra) [Beware of "bootcamps"](https://youtu.be/Zgu9brxg7Ew)
         1. (extra) [What about Codecademy?](https://youtu.be/XxIqp_EbDnE)
