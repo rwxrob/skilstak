@@ -6,6 +6,10 @@ This is just a place to organize videos related to stuff about myself (Rob).
 
 * [Latest Schedule (May 2024)](https://youtu.be/Soen3HfHjDg)
 
+## Music
+
+* [🎵 What is the music you are listening to?](https://youtu.be/imO8JEGrrnw)
+
 ## Life
 
 * [🦷 What's up with your teeth?](https://youtu.be/cm362HqCQwo)

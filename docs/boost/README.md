@@ -5,18 +5,21 @@ Welcome to the annual **SKILSTAK Beginner Boost**!
 Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
 
 * 📺 [Overview of the 2024 SKILSTAK Beginner Boost](https://youtu.be/JaQmGOBbuK0)
-* 📺 [Flipped classroom in 2024](https://youtu.be/h43tMxWeiMY)
 * 📺 [Welcome! 11:11:11 on May the Fourth](https://youtu.be/tXpscqjpqIM)
 * 📺 [Where are all the videos?](https://youtu.be/xa1yZBivH0E)
-* 📺 [Join us for daily CoffeeBoost?](https://youtu.be/6FHkhjmQ0Ko)
-* 📺 [Request to play YouTube videos/music](https://youtu.be/CITmKZIy2CA)
 
 ## Schedule
 
-* 📺 [Saturdays 11a-2pm | 2024 Beginner Boost schedule considerations](https://youtu.be/UMs7qF0B6KQ)
-* 📺 [Time together is for dialog, discussion, answering questions, "unblocking" you](https://youtu.be/c5oLtE5bhik)
+* 📺 [Latest weekly schedule](https://youtu.be/6hlnCjXsGlA)
 
-As masters and padwans, we begin on Star Wars day, May the 4th at 11:11:11. Since 2024 we follow an annual content rotation:
+We begin the first week of May known historically for many significant (and some less significant but memorable) reasons:
+
+* May 1st, International Workers' Day / Labor Day
+* May 4th, "May the fourth be with you"
+* May 5th, Cinco de Mayo
+* May 9th, Mr. Robot Day (okay, technically not first week of May, but still)
+
+Since 2024 we follow an annual content rotation:
 
 Stage | Weeks | Length | Title
 -|-|-|-

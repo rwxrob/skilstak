@@ -23,9 +23,26 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. (extra) Should I wrap my paragraph blocks or not?
     1. (extra) What about asciidoc?
     1. (extra) What about Obsidian?
-1. Learn essential HTML elements that correspond to Markdown
-    1. Look up documentation about Web development when needed
+1. Understand your developer/editor options
+    1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
+    1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
+    1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
+    1. Use Pandoc
+1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
+    1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
+    1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
+    1. [Understand basic HTML syntax](https://youtu.be/h4c5DzDNonM)
+    1. [Code main HTML document elements: doctype, html, head, body](https://youtu.be/eEm_GS6uoos)
+    1. [Code HTML metadata elements: meta, title, base](https://youtu.be/8BGAz9Z5I2s)
+    1. Code HTML document section elements:
+    1. Code HTML grouping elements:
+    1. Code HTML text-level semantic elements:
+    1. Code HTML embedded content elements:
+    1. Code HTML embedded table elements:
+    1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
+    1. (extra) [Is HTML5 related to SGML?](https://youtu.be/n3OtVsCwM8k)
     1. (extra) What is XML and XHTML?
+    1. (extra) [FreeCodeCamp failed to help them learn anything](https://youtu.be/Lf0t0cgErLQ)
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
     1. Learn to structure data into JSON
