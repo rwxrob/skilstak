@@ -14,6 +14,7 @@ This is just a place to organize videos related to stuff about myself (Rob).
 
 * [🦷 What's up with your teeth?](https://youtu.be/cm362HqCQwo)
 * [😲 Tale of Software and Game Dev category drama](https://youtu.be/S8aJMNHAC4A)
+* [👴 Five things you must to do prepare for retirement](https://youtu.be/-IXBXeR7-So)
 
 ## Diet
 
