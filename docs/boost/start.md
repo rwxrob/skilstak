@@ -69,15 +69,16 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
     1. Leverage as much free learning as possible
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
+        1. [Eventually, yes, master algorithms in C](https://youtu.be/CBEnQfn3Xt4)
         1. [Build passionate "solutions" to real problems](https://youtu.be/T_keQlQVOWo)
         1. [Do what TJ Holowaychuk does to learn](https://youtu.be/8bukMVraTME)
         1. [Gamify your own project-based learning](https://youtu.be/X0VeUoUI34s)
-        1. (extra) ["Should I pay for tech books?"](https://youtu.be/ZypemgMnYvA)
-        1. (extra) ["What is the best tech book to learn from?"](https://youtu.be/3eCOoUkQ5QY)
-        1. (extra) ["For education" (like FreeCodeCamp) fails](https://youtu.be/Lf0t0cgErLQ)
-        1. (extra) [Beware of "bootcamps"](https://youtu.be/Zgu9brxg7Ew)
-        1. (extra) [What about Codecademy?](https://youtu.be/XxIqp_EbDnE)
-        1. (extra) [What about HackTheBox and CTF games?](https://youtu.be/9GXoXgUTOcA)
+        1. ["Should I pay for tech books?"](https://youtu.be/ZypemgMnYvA)
+        1. ["What is the best tech book to learn from?"](https://youtu.be/3eCOoUkQ5QY)
+        1. ["For education" (like FreeCodeCamp) fails](https://youtu.be/Lf0t0cgErLQ)
+        1. [Beware of "bootcamps"](https://youtu.be/Zgu9brxg7Ew)
+        1. [What about Codecademy?](https://youtu.be/XxIqp_EbDnE)
+        1. [What about HackTheBox and CTF games?](https://youtu.be/9GXoXgUTOcA)
     1. Consider accredited online college degrees like WGU
     1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
 
