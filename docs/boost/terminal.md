@@ -3,3 +3,4 @@
 *Content will be added as it becomes available.*
 
 * [Do not add suffixes to scripts](https://youtu.be/jCbSHFI3fI4)
+* [Manage .vimrc and vim.plug files](https://youtu.be/QTQqTwTjM88)
