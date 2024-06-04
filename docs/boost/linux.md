@@ -5,7 +5,8 @@
 * [VMware Workstation/Fusion Pro is free](https://youtu.be/PvEYSBCaOzY)
 * [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
 
-* [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
+* (extra) [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
+* (extra) [Linux Desktop is often the wrong tool for the job](https://youtu.be/06TwHXOADwc)
 
 * Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
