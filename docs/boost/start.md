@@ -64,6 +64,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. (extra) ["What is MLOps and should I learn it?"](https://youtu.be/XxIqp_EbDnE)
 
 1. [Learn what is required for the specific career you have targeted](https://youtu.be/tkMyGgbWNkc)
+    1. [ASK yourself](https://youtu.be/KwOeTMrQEag)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
