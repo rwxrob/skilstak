@@ -79,6 +79,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. ["For education" (like FreeCodeCamp) fails](https://youtu.be/Lf0t0cgErLQ)
         1. [Beware of "bootcamps"](https://youtu.be/Zgu9brxg7Ew)
         1. [What about Codecademy?](https://youtu.be/XxIqp_EbDnE)
+        1. [What about Odin Project?](https://youtu.be/NWUsMKpa3LM)
         1. [What about HackTheBox and CTF games?](https://youtu.be/9GXoXgUTOcA)
     1. Consider accredited online college degrees like WGU
     1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
