@@ -27,7 +27,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
-    1. Use Pandoc
+    1. [Get pandoc to learn how Markdown renders as HTML](https://youtu.be/3E3T92vriec)
 1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
     1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
     1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
