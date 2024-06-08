@@ -68,6 +68,9 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
+    1. Learn how to self-assess
+        1. [How do I determine if I can actually do the job?](https://youtu.be/SCUnmaHAQ00)
+        1. [Are you good at math? If not, avoid tech](https://youtu.be/D22tcm-OmF4)
     1. Leverage as much free learning as possible
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
         1. [Eventually, yes, master algorithms in C](https://youtu.be/CBEnQfn3Xt4)
