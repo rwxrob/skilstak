@@ -28,3 +28,6 @@ This is just a place to organize videos related to stuff about myself (Rob).
 
 * [🚗 "How did Rob jump start his Subaru?"](https://youtu.be/3kmbXf1t2Tk)
 
+## Livestreaming
+
+* [🔰 Livestream to Twitch, Videos on YouTube (multistream not worth it)](https://youtu.be/NaDhrErbIpc)
