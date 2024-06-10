@@ -8,6 +8,7 @@
 * [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
 * [Linux Desktop is often the wrong tool for the job](https://youtu.be/06TwHXOADwc)
 * [GUIX is awesome, but probably won't get you a job](https://youtu.be/fNrrAip2rAs)
+* [Don't start with Arch (and beware of Arch users)](https://youtu.be/nC_IPA7mFKc)
 
 * Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
