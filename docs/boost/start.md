@@ -116,6 +116,6 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. Maintain career experience data in YAML
         1. [Include currently learning and projects](https://youtu.be/JuZztAYpoSo)
     1. Never cold-call or spam applications
-    1. Beware of LinkedIn
+    1. [Beware of LinkedIn](https://youtu.be/woj7f1TZ-zY)
     1. Shun companies that require "white board" interviews
     1. Seek opportunities to demonstrate your skills (internships, take-home projects)

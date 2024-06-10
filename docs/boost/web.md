@@ -48,3 +48,4 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. Learn to structure data into JSON
     1. Learn to structure data into YAML
 1. PROJECT: Create an online resume/cv on GitHub
+    1. [Stay the hell away from LinkedIn](https://youtu.be/woj7f1TZ-zY)
