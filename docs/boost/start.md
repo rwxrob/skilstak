@@ -112,6 +112,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Know what your job is](https://youtu.be/bdXhxDbw6GM)
     1. Leverage your professional learning network
     1. Publish a resume or CV
+        1. [No one really cares about your resume](https://youtu.be/IxtEGhYzXrs)
         1. Maintain career experience data in YAML
         1. [Include currently learning and projects](https://youtu.be/JuZztAYpoSo)
     1. Never cold-call or spam applications
