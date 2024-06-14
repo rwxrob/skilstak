@@ -27,6 +27,7 @@ This is just a place to organize videos related to stuff about myself (Rob).
 ## Gear
 
 * [🚗 "How did Rob jump start his Subaru?"](https://youtu.be/3kmbXf1t2Tk)
+* [Yamaha MG10XU](https://youtu.be/2PEizTxgHeM)
 
 ## Livestreaming
 

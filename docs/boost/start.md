@@ -68,6 +68,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
+        1. ["Got CKA, now what"?](https://youtu.be/fHQq4mgpTAc)
     1. Learn how to self-assess
         1. [How do I determine if I can actually do the job?](https://youtu.be/SCUnmaHAQ00)
         1. [Are you good at math? If not, avoid tech](https://youtu.be/D22tcm-OmF4)
@@ -86,6 +87,9 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. ["What about HackTheBox and CTF games?"](https://youtu.be/9GXoXgUTOcA)
         1. ["What about CS50?"](https://youtu.be/ID0wnI9daw0)
         1. [Tech jobs that lead to tech job you really want](https://youtu.be/SCUnmaHAQ00)
+    1. Start a home lab of cheap hardware
+        1. [Don't spend too much on tower right away](https://youtu.be/gY6JRCh-3ew)
+        1. ["Can't I just get 3 OptiPlex machines instead of a tower?"](https://youtu.be/qe2Zu9sw86k)
     1. Consider accredited online college degrees like WGU
     1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
 

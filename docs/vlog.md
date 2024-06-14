@@ -1,3 +1,4 @@
 # Video blog
 
-* [🔮 Batch is SEXY again (and Kubernetes kinda sucks)](https://youtu.be/ltut1r7LsNc)
+* [Visit from officer while testing sleeping bag in backyard](https://youtu.be/td0tzxi-i1A)
+* [First RWXBoostRadio from Subuwu](https://youtu.be/PXgsLdztICM)

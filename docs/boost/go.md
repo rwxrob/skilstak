@@ -2,6 +2,8 @@
 
 *Content will be added as it becomes available.*
 
+* ["Where should I learn Go?"](https://youtu.be/zRxa224BG80)
+
 * Write secure, robust software
     * [Keep deps near code with go mod vendor](https://youtu.be/oLr8GYsOBsQ)
 
