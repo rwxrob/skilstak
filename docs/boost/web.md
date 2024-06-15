@@ -16,11 +16,10 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Learn Markdown linking](https://youtu.be/1oKmW7xgzVE)
     1. [Learn Markdown images](https://youtu.be/-QtiAZ-jLmw)
     1. [Learn LaTeX/KaTeX/MathJax are and when to use](https://youtu.be/RvClkA0x3lY)
-
     1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
     1. [Get pandoc to learn how Markdown renders as HTML](https://youtu.be/3E3T92vriec)
-
 1. [Learn essential HTML elements that correspond to Markdown](https://youtu.be/mMv1KptYSC4)
+    1. [HTML is "read-only" mostly (like PostScript)](https://youtu.be/EpVhqZRvTl8)
     1. [Look up HTML documentation from specification when needed](https://youtu.be/mMv1KptYSC4)
     1. [Inspect HTML source (and know the dangers)](https://youtu.be/ISkm7_PVbHgj)
     1. [Understand basic HTML syntax](https://youtu.be/h4c5DzDNonM)
@@ -31,10 +30,9 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. Code HTML text-level semantic elements:
     1. Code HTML embedded content elements:
     1. Code HTML embedded table elements:
-    1. (extra) [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
-    1. (extra) [Is HTML5 related to SGML?](https://youtu.be/n3OtVsCwM8k)
-    1. (extra) What is XML and XHTML?
-    1. (extra) [FreeCodeCamp failed to help them learn anything](https://youtu.be/Lf0t0cgErLQ)
+    1. [Look up what is supported from caniuse.com when needed](https://youtu.be/Gy3ZptGvam8)
+    1. [Is HTML5 related to SGML?](https://youtu.be/n3OtVsCwM8k)
+1. What is XML and XHTML?
 1. Learn just enough CSS to style a basic web site
 1. Learn to structure data
     1. Learn to structure data into JSON
