@@ -10,7 +10,10 @@ Many assume you know how to operate a computer that is connected to the Internet
     1. Safely install software on a Mac
         1. [Gruvbox for Mac terminal](https://youtu.be/-ENS9Huq3dA)
         1. [Get brew for your Mac](https://youtu.be/xzDnBnmgXeE)
-1. Install and learn the best web browser for work
+1. Understand how to use the Internet
+    1. Know just enough networking to describe how the Internet works
+    1. Purchase and setup a home Internet modem/router/firewall
+    1. Install and learn the best web browser for work
 1. Understand your developer/editor options
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
