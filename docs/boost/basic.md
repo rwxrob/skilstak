@@ -2,6 +2,8 @@
 
 Many assume you know how to operate a computer that is connected to the Internet but these skills might be completely new to some. Ensure you have these bases covered before progressing.
 
+* [📺 Added "basic computer skills](https://youtu.be/d47s-BQke6M)
+
 1. [Understand what basic computer skills are](https://youtu.be/ZeKEUgHW3dE) 
 1. Learn how to *really* type
 1. Get a computer you can modify with admin access
