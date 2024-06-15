@@ -19,9 +19,10 @@ Many assume you know how to operate a computer that is connected to the Internet
 1. Understand your developer/editor options
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
-    1. Install Microsoft Visual Studio Code on Windows
-    1. Install Microsoft Visual Studio Code on Mac
-    1. "What about VSCodium?"
+    1. Install Microsoft Visual Studio Code
+        1. "What about VSCodium?"
+        1. Install Microsoft Visual Studio Code on Windows
+        1. [Install Microsoft Visual Studio Code on Mac](https://youtu.be/92jCCqGF5rU)
 1. [Create a free ProtonMail account for personal use](https://youtu.be/MSH_gJtqBSg)
 1. [Create a free Google/YouTube/Gmail account for personal use](https://youtu.be/yAe4ZJvqeC4)
 1. [Forward multiple Gmail accounts to ProtonMail](https://youtu.be/8A_8g5oiokc)
