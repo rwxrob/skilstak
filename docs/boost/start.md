@@ -59,6 +59,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Learn how to self-assess
         1. [How do I determine if I can actually do the job?](https://youtu.be/SCUnmaHAQ00)
         1. [Are you good at math? If not, avoid tech](https://youtu.be/D22tcm-OmF4)
+    1. ["Where should I read about stuff? Books, man pages, or Interwebz?"](https://youtu.be/M2GHauFPvps)
     1. Leverage as much free learning as possible
         1. [Don't waste time on "leetcode"](https://youtu.be/NP07mRONat8)
         1. [Eventually, yes, master algorithms in C](https://youtu.be/CBEnQfn3Xt4)
