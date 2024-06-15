@@ -68,6 +68,8 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [ASK yourself](https://youtu.be/KwOeTMrQEag)
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
+          1. [The five main reasons to go do college](https://youtu.be/IgAMFw9i8W0)
+          1. Consider accredited online college degrees like WGU
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
         1. ["Got CKA, now what"?](https://youtu.be/fHQq4mgpTAc)
     1. Learn how to self-assess
@@ -92,8 +94,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Start a home lab of cheap hardware
         1. [Don't spend too much on tower right away](https://youtu.be/gY6JRCh-3ew)
         1. ["Can't I just get 3 OptiPlex machines instead of a tower?"](https://youtu.be/qe2Zu9sw86k)
-    1. Consider accredited online college degrees like WGU
-    1. (extra) ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
+    1. ["What if I am not an American?"](https://youtu.be/CF7sS6uIgAM)
 
 1. Install and configure Microsoft Visual Studio Code
     1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
