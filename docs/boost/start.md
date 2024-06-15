@@ -69,7 +69,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. [Know when a Computer Science degree can help (or hurt)](https://youtu.be/E7Cz6SfC6fU)
     1. [Know if you need to go to college or not](https://youtu.be/bDUTVD_uels)
           1. [The five main reasons to go do college](https://youtu.be/IgAMFw9i8W0)
-          1. Consider accredited online college degrees like WGU
+          1. [Consider accredited online college degrees like WGU](https://youtu.be/_JLjqCr_i5g)
     1. [Know if you should "certify" or not](https://youtu.be/ZDbQ9-QJIhQ)
         1. ["Got CKA, now what"?](https://youtu.be/fHQq4mgpTAc)
     1. Learn how to self-assess
