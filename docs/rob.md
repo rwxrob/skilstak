@@ -32,3 +32,4 @@ This is just a place to organize videos related to stuff about myself (Rob).
 ## Livestreaming
 
 * [🔰 Livestream to Twitch, Videos on YouTube (multistream not worth it)](https://youtu.be/NaDhrErbIpc)
+* [🚙 Reuse Belabox SRT relay with OBS to stream from laptop without dropping (no matter what)](https://youtu.be/VhQxTzyNzdo)
