@@ -34,3 +34,4 @@ This is just a place to organize videos related to stuff about myself (Rob).
 * [🔰 Livestream to Twitch, Videos on YouTube (multistream not worth it)](https://youtu.be/NaDhrErbIpc)
 * [🚙 Reuse Belabox SRT relay with OBS to stream from laptop without dropping (no matter what)](https://youtu.be/VhQxTzyNzdo)
 * [There is not better way to IRL stream than Belabox](https://youtu.be/zWylptbN_Ew)
+* [What's up with Starlink being late all the time?](https://youtu.be/QULO-bU90AQ)
