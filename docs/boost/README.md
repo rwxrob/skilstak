@@ -28,7 +28,8 @@ Since 2024 we follow an annual content rotation:
 Stage | Weeks | Length | Title
 -|-|-|-
 START    | 18-20 | 3     | [Start your tech career](start.md)
-WEB      | 21-25 | 4     | [Create a basic web site](web.md)
+BASIC    | 21-22 | 2     | [Master basic computer skills](basic.md)
+WEB      | 23-25 | 3     | [Create a basic web site](web.md)
 LINUX    | 26-30 | 4     | [Get a Linux machine](linux.md)
 TERMINAL | 31-39 | 8     | [Learn the terminal](term.md)
 CODE     | 40-52 | 12    | [Learn to code](code.md)

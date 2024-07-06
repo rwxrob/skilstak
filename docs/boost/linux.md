@@ -3,6 +3,7 @@
 *Content will be added as it becomes available.*
 
 * [Which Linux distro should you learn?](https://youtu.be/p-NM0PUI6AU)
+* [BSD UNIX and Linux](https://youtu.be/x3mavzLYxQs)
 * [VMware Workstation/Fusion Pro is free](https://youtu.be/PvEYSBCaOzY)
 * [Allocate 100GB storage to virtual machine](https://youtu.be/mgFKIBT9GWo)
 * [Do not use your work computer for personal stuff](https://youtu.be/EbzuizIM2Co)
