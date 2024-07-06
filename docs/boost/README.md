@@ -1,5 +1,9 @@
 # OVERVIEW
 
+!!! warning "Boost rescheduled"
+
+    Note from Rob: These days I am unavailable during the Summer months trying to live a digital nomad life by bike (unlike anyone has ever attempted). I have to focus every thought on it or things could go very badly. Unfortunately, planning and executing the Beginner Boost was just too much to combine into it. However, I've decided *not* to live like a DNB during the colder months of November through end of March. During this time I can focus entirely on the Beginner Boost for several hours at a time on the weekends creating 10-18 hours of educational content most weeks and seven times that during each week of Christmas break in December. Perhaps one day I will master DNB living so well that I can layer the Boost back into the daily routine even in Summer, but for now that just means I'm available to casually talk about any topic while peddling away those miles for 2-4 hours a day. I do hope you will still join me.
+
 Welcome to the annual **SKILSTAK Beginner Boost**!
 
 Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
