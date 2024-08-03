@@ -643,6 +643,9 @@ Won't you join us?
 
 - Name: Mehmet
   Text: ->
+- Name: eganathan_r
+  Text: ->
+    These are your contents and you have all the right to restrict it, but i myself randomly stumbled upon you from Youtube and since then it had made a huge impact on me, i am currently employed without any school or certifications, it might sound silly but i couldn't go due to family situations so i had to work, as 60% of well educated Indians are unemployed here i am working an amazing company thanks to you and many other great individuals. just wanted to say this before i go.
 
 ```
 
