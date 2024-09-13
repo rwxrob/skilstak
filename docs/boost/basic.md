@@ -16,6 +16,7 @@ Many assume you know how to operate a computer that is connected to the Internet
     1. Know just enough networking to describe how the Internet works
     1. Purchase and setup a home Internet modem/router/firewall
     1. Install and learn the best web browser for work
+    1. Learn to search the Internet efficiently and effectively
 1. Understand your developer/editor options
     1. [Edit (and preview) on GitHub with github.dev](https://youtu.be/QLta2MNjMMA)
     1. [Choosing the right text editor for you](https://youtu.be/iT1mP8leRsU)
@@ -32,6 +33,7 @@ Many assume you know how to operate a computer that is connected to the Internet
 1. Develop search-centric user interface habits
     1. Learn the universal Alt-Tab technique (avoid hyper-specific alternatives)
     1. Master the search field hotkey for your computer operating system
+1. Learn ChatGPT and pay for full version
 1. Learn how to scan books and content quickly
 1. Leverage AI assistants to your advantage
 

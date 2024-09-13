@@ -10,6 +10,8 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
     1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
     1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
+    1. Understand the current tech job climate
+        1. People don't meetup IRL as much
     1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
         1. [Find purpose like Aaron Swartz](https://youtu.be/9vz06QO3UkQ)
         1. [Unlock your creative potential like Sir Ken](https://youtu.be/XSu38uFEVuI)

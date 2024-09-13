@@ -4,8 +4,11 @@
 
 * ["Where should I learn Go?"](https://youtu.be/zRxa224BG80)
 
+
+
 * Write secure, robust software
     * [Keep deps near code with go mod vendor](https://youtu.be/oLr8GYsOBsQ)
+    * Make sure to remove `go mod tidy` when using `goereleaser` in GitHub action
 
 * Understand how to work with Go private modules
     * [Use go mod vendor to save yourself from dependency hell](https://youtu.be/nInBqtpA0-A)
@@ -14,3 +17,4 @@
 * Get good working with YAML data
     * [Beware of YAML multidoc stream gotchas](https://youtu.be/88wfCtNNaa8)
     * [Split YAML data correctly](https://youtu.be/EPfWHm08BLA)
+

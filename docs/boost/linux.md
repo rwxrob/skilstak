@@ -2,6 +2,10 @@
 
 *Content will be added as it becomes available.*
 
+* What computers should I buy?
+    * [First computer should be a laptop to install Linux](https://youtu.be/PnvtDcK955w)
+    * [Second computer should be a mini server](https://youtu.be/LfML1sjtO04)
+    * [Third computer should be a server tower for VMs](https://youtu.be/2eaMRQnsyVk)
 * [Which Linux distro should you learn?](https://youtu.be/p-NM0PUI6AU)
 * [BSD UNIX and Linux](https://youtu.be/x3mavzLYxQs)
 * [VMware Workstation/Fusion Pro is free](https://youtu.be/PvEYSBCaOzY)
