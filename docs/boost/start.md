@@ -9,6 +9,7 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
         1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
         1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
     1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
+    1. [Organize yourself](https://youtu.be/zuxuRr0wWSY)
     1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
     1. Understand the current tech job climate
         1. People don't meetup IRL as much
