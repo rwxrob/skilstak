@@ -14,6 +14,7 @@
 * [Linux Desktop is often the wrong tool for the job](https://youtu.be/06TwHXOADwc)
 * [GUIX is awesome, but probably won't get you a job](https://youtu.be/fNrrAip2rAs)
 * [Don't start with Arch (and beware of Arch users)](https://youtu.be/nC_IPA7mFKc)
+* [Configure three computers at once with `tmux` `syncronize-panes`](https://youtu.be/uv3tK2SRP0M)
 
 * Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
