@@ -15,6 +15,7 @@
 * [GUIX is awesome, but probably won't get you a job](https://youtu.be/fNrrAip2rAs)
 * [Don't start with Arch (and beware of Arch users)](https://youtu.be/nC_IPA7mFKc)
 * [Configure three computers at once with `tmux` `syncronize-panes`](https://youtu.be/uv3tK2SRP0M)
+* [😎 copy from one computer to another the cool way with netcat](https://youtu.be/8d49javqZtc)
 
 * Know the Unix philosophy
     1. <https://www.catb.org/~esr/writings/taoup/html/>
