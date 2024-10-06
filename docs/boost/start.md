@@ -111,3 +111,6 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
     1. Shun companies that require "white board" interviews
     1. Seek opportunities to demonstrate your skills (internships, take-home projects)
     1. [Know what to say and ask in the interview](https://youtu.be/VvCGkd6yBFw)
+
+1. Keep the job
+    1. [ WARNING: avoid "management suck" (unless you want to be a manager)](https://youtu.be/iK3i_PVcHYg)
