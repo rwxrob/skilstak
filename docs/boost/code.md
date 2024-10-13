@@ -14,3 +14,9 @@ We will learn Python, JavaScript, and Go at the same time.
     1. Get data from standard input
 * (extra) [Use environment variables for GitHub Actions](https://youtu.be/Do0kypSiBnw)
 * (extra) [Use `command -v` or `type`?](https://youtu.be/REPBzwf_zhU)
+
+
+## Design principles
+
+* [Progressive enhancement](https://youtu.be/Ot9K3Rgfugc)
+
