@@ -3,6 +3,7 @@
 *Content will be added as it becomes available.*
 
 * ["Where should I learn Go?"](https://youtu.be/zRxa224BG80)
+* [First alphabetical file wins when function exists twice in same package](https://youtu.be/PbKS6OqdjDA)
 
 
 
