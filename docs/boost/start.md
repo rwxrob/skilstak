@@ -5,12 +5,13 @@ Pre-stage ignition is like firing up your booster rockets while still on the gro
 📺 *The following outline contains links to specific YouTube videos of varying lengths and can be considered a linear playlist in outline format. Line items that are not linked are videos yet to be made. To be notified of updates [follow the repo](https://github.com/rwxrob/skilstak/subscription) (and drop us a star while you are at it).*
 
 1. [Prepare yourself mentally](https://youtu.be/DhjQV34TDHA)
+    1. What will your verse be?
+    1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
     1. [Find happiness and motivation to overcome depression and self-doubt](https://youtu.be/Dk_uJDAYV2I)
         1. [Regularly make a list of what makes you grateful](https://youtu.be/zXcQ_c4EYKE)
         1. [Listen to great music](https://youtu.be/DNosRGLD_mE)
     1. [Put in the time to get results](https://youtu.be/AQCYo3EOjZc)
     1. [Organize yourself](https://youtu.be/zuxuRr0wWSY)
-    1. [Know that it is never too late](https://youtu.be/lSjJOp1R_Qs)
     1. Understand the current tech job climate
         1. People don't meetup IRL as much
     1. [Think like a hacker](https://youtu.be/QhtF0b4hwms)
