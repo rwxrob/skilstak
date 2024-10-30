@@ -2,38 +2,86 @@
 
 Welcome to the **SKILSTAK Beginner Boost**!
 
-Since 2020, our community has come together every year to do a series of extremely casual live streams and videos to help beginners get good tech jobs starting from absolute zero.
+Since 2020, our community has come together every year to do a series of extremely casual live streams and videos with one mission in mind: to help beginners get good tech jobs starting from absolute zero.
 
-* 📺 [Overview of the 2024 SKILSTAK Beginner Boost](https://youtu.be/JaQmGOBbuK0)
-* 📺 [Welcome! 11:11:11 on May the Fourth](https://youtu.be/tXpscqjpqIM)
-* 📺 [Where are all the videos?](https://youtu.be/xa1yZBivH0E)
+## SKILSTAK app
 
-## Schedule
+Planning a PWA with only the following on a simple front page:
 
-* 📺 [Latest weekly schedule](https://youtu.be/6hlnCjXsGlA)
+- Current announcement
+- Last posted video
+- Search box
+- Three-level, collapsible tags index
 
-We begin the first week of May known historically for many significant (and some less significant but memorable) reasons:
+## Tags index
 
-* May 1st, International Workers' Day / Labor Day
-* May 4th, "May the fourth be with you"
-* May 5th, Cinco de Mayo
-* May 9th, Mr. Robot Day (okay, technically not first week of May, but still)
+I use as system of tagging that works well with YouTube's "three main tags" algorithm. I have decided to use it as a method of categorization with some tags being level one, two, and three. This works out well when using the tags in software to look something up.
 
-Since 2024 we follow an annual content rotation:
+Beyond the three tags are additional qualifying tags that distinguish between doing and learning about something, for example, `#coding #golang #bonzai #tutorial` would cover how to create something with the Bonzai framework versus me making something. Here are some qualifiers:
 
-Stage | Weeks | Length | Title
--|-|-|-
-START    | 18-20 | 3     | [Start your tech career](start.md)
-BASIC    | 21-22 | 2     | [Master basic computer skills](basic.md)
-WEB      | 23-25 | 3     | [Create a basic web site](web.md)
-LINUX    | 26-30 | 4     | [Get a Linux machine](linux.md)
-TERMINAL | 31-39 | 8     | [Learn the terminal](term.md)
-CODE     | 40-52 | 12    | [Learn to code](code.md)
-C        | 52-01 | 2[^1] | [Learn C for understanding](c.md)
-GO       | 02-14 | 12    | [Develop enterprise software in Go](go.md)
-LXC      | 15-17 | 3     | [Leverage Linux containers](lxc.md)
+- `#protips` - short discoveries
+- `#tutorial` - contains step-by-step way to do something
+- `#educational` - contains something to learn
+- `#short` - YouTube short under three minutes
+- `#rants` - angry stuff
+- `#reactions` - honest, immediate, authentic reactions to other stuff
+- `#tech` - just 'cuz
 
-[^1]: **Learn C for understanding** is done at an accelerated pace in a condensed amount of time during the two-week holiday break in December. We follow the book [Head First C](https://amzn.to/3UVanZe). We have never finished the entire book, but work through as much as we can together.
+### Top level
+
+- `#techlife` - getting, keeping, and enjoying a career in tech
+- `#homelab` - building and using a home tech lab for fun and profit
+- `#coding` - learning to code and doing it for fun and profit
+- `#hacking` - breaking into things for fun and profit
+- `#education` - conversations and discoveries about true education
+- `#contentcreation` - how to create and maintain content
+- `#irl` - me doing unrehearsed, unscripted things IRL
+
+### `#techlife`
+
+- `#learning`
+- `#notetaking`
+- `#productivity`
+- `#chatgpt`
+- `#hacking`
+- `#getajob`
+- `#networking`
+
+### `#homelab`
+
+- `#networking`
+- `#linux` - (includes `#unix`)
+    - `#terminal`
+    - `#scripting`
+    - `#bash`
+- `#containers`
+    - `#podman`
+- `#kubernetes`
+    - `#containerd`
+- `#terraform`
+- `#ansible`
+- `#proxmox`
+- `#minecraft`
+- `#hardware`
+
+
+- `#hacking`
+    - `#discovery`
+- `#coding`
+    - `#beginners`
+    - `#gamedev`
+    - `#webdev`
+    - `#enterprise`
+    - `#leetcode`
+    - `#bonzai`
+
+- `#education`
+
+BASIC    | [Master basic computer skills](basic.md)
+WEB      | [Create a basic web site](web.md)
+TERMINAL | [Learn the terminal](term.md)
+CODE     | [Learn to code](code.md)
+LXC      | [Leverage Linux containers](lxc.md)
 
 ## Boost is not a course
 
