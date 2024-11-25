@@ -13,7 +13,7 @@ This stage lifts you off the ground by learning the most rudimentary tech skills
     1. [Learn Markdown headings](https://youtu.be/tsI_o1JQLUY)
     1. [Learn Markdown blocks](https://youtu.be/FhlhwH0MnhY)
     1. [Learn Markdown inline formatting](https://youtu.be/1oKmW7xgzVE)
-    1. [Learn Markdown linking](https://youtu.be/1oKmW7xgzVE)
+    1. [Learn Markdown linking](https://youtu.be/hJYi7XFB3c0)
     1. [Learn Markdown images](https://youtu.be/-QtiAZ-jLmw)
     1. [Learn LaTeX/KaTeX/MathJax are and when to use](https://youtu.be/RvClkA0x3lY)
     1. [Use VSCode LiveServer extension](https://youtu.be/mMv1KptYSC4)
