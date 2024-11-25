@@ -2,14 +2,10 @@
 
 Welcome to the **SKILSTAK Learning Community**!
 
-You've reached the SKILSTAK knowledge base and home of the annual, rotating, crowd-sourced, live-streamed [SKILSTAK Beginner Boost](boost) currently led by [rwxrob](https://linktr.ee/rwxrob). Here we document the skills, knowledge, and abilities needed to get and maintain an amazing career in tech. Master, beginner, or just lurker, we do hope you will join us as we blow the doors off of traditional education paradigms and focus on skills-based tech learning with substance.
+Here we document the skills, knowledge, and abilities needed to get and maintain an amazing career in tech. Master, beginner, or just lurker, we do hope you will join us as we blow the doors off of traditional education paradigms and focus on skills-based tech learning with substance.
 
-!!! note "Pardon our plainness"
-
-    Perhaps you have noticed how boring our web site is. It isn't flashy by design. In fact, most overly flashy things are usually [pretty sus](https://youtu.be/DMZd535WTkY). Our priority is on searchable, mobile-friendly, dynamic content that supplements YouTube videos, live Twitch sessions, Discord channel discussions, and—most of all—your own notes and labs. Like tech, this stuff is always changing so please adjust your expectations to match. If you see something wrong, please let us know.
-
-!!! tip "Want to help write these docs?"
-    Take note of the icons on each page that allow you to contribute content to the docs yourself.
+!!! tip
+    Check out the new [Code Mage book](https://github.com/rwxrob/code-mage-book) and `cm` command line leaning assistant under development.
 
 ## What have people said about Rob and SKILSTAK?
 
