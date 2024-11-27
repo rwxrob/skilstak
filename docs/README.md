@@ -4,8 +4,7 @@ Welcome to the **SKILSTAK Learning Community**!
 
 Here we document the skills, knowledge, and abilities needed to get and maintain an amazing career in tech. Master, beginner, or just lurker, we do hope you will join us as we blow the doors off of traditional education paradigms and focus on skills-based tech learning with substance.
 
-!!! tip
-    Check out the new [Code Mage book](https://github.com/rwxrob/code-mage-book) and `cm` command line leaning assistant under development.
+Head over to GitHub, add an account and introduce yourself on [boost-talk](https://github.com/rwxrob/boost-talk).
 
 ## What have people said about Rob and SKILSTAK?
 
